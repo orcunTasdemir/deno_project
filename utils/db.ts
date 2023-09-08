@@ -82,13 +82,15 @@ export interface Staff {
 }
 
 export async function createStaff(staff: Staff) {
-  const staffKey = ["staff", staff.id];
+  const staffKey = ["staff", staff.email];
   const res = await kv
     .atomic()
     .check({ key: staffKey, versionstamp: null })
     .set(staffKey, staff)
     .commit();
-  if (!res.ok) throw new Error(`Failed to create staff: ${staff}`);
+  if (!res.ok) {
+    console.log("Duplicate staff entry for staff with email: " + staff.email);
+  }
 }
 
 export function listStaff(id: string, options?: Deno.KvListOptions) {

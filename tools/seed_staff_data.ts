@@ -3,7 +3,7 @@ import {
   type CsvStreamOptions,
 } from "https://deno.land/std@0.166.0/encoding/csv/stream.ts";
 
-import { createStaff, type Staff, kv } from "@/utils/db.ts";
+import { createStaff, type Staff } from "@/utils/db.ts";
 /**
  * A helper async generator function which yields the parsed CSV rows
  */
@@ -28,19 +28,21 @@ async function* iterateCsvRows(
 }
 
 async function main() {
-  const csvPath = "data/staff.csv";
+  const csvPath = "data/reps-no-role.csv";
 
   const csvStreamOptions: CsvStreamOptions = {
     separator: ",",
   };
 
-  for await (const row of iterateCsvRows(csvPath, csvStreamOptions)) {
+  const iterator = iterateCsvRows(csvPath, csvStreamOptions);
+  for await (const row of iterator) {
     const staff: Staff = {
       id: crypto.randomUUID(),
       first_name: row[0],
       last_name: row[1],
       email: row[2],
     };
+    console.log(staff);
     createStaff(staff);
   }
 }
