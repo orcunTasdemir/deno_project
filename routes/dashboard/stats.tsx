@@ -9,13 +9,13 @@ import { HEADING_WITH_MARGIN_STYLES } from "@/utils/constants.ts";
 
 export default async function DashboardStatsPage(
   _req: Request,
-  ctx: RouteContext
+  ctx: RouteContext,
 ) {
   const msAgo = 30 * DAY;
   const dates = getDatesSince(msAgo).map((date) => new Date(date));
 
-  const [visitsCounts, usersCounts, itemsCounts, votesCounts] =
-    await Promise.all([
+  const [visitsCounts, usersCounts, itemsCounts, votesCounts] = await Promise
+    .all([
       getManyMetrics("visits_count", dates),
       getManyMetrics("users_count", dates),
       getManyMetrics("items_count", dates),

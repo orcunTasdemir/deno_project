@@ -1,6 +1,6 @@
 import Head from "@/components/Head.tsx";
 import type { RouteContext } from "$fresh/server.ts";
-import { Staff, getAllStaff, listStaff } from "@/utils/db.ts";
+import { getAllStaff, listStaff, Staff } from "@/utils/db.ts";
 
 function StaffRow(staff: Staff) {
   return (
@@ -31,9 +31,7 @@ export default async function StaffsPage(_req: Request, ctx: RouteContext) {
               </tr>
             </thead>
             <tbody>
-              {staffs.map((staff) => (
-                <StaffRow {...staff} />
-              ))}
+              {staffs.map((staff) => <StaffRow {...staff} />)}
             </tbody>
           </table>
         </div>

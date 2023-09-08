@@ -9,7 +9,7 @@ import { createStaff, type Staff } from "@/utils/db.ts";
  */
 async function* iterateCsvRows(
   filePath: string,
-  options?: CsvStreamOptions
+  options?: CsvStreamOptions,
 ): AsyncGenerator<string[], void> {
   // Open the file to get a handle:
   const file = await Deno.open(filePath);
