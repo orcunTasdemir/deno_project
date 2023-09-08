@@ -15,7 +15,7 @@ export const kv = await Deno.openKv(path);
 // Helpers
 async function getValue<T>(
   key: Deno.KvKey,
-  options?: { consistency?: Deno.KvConsistencyLevel }
+  options?: { consistency?: Deno.KvConsistencyLevel },
 ) {
   const res = await kv.get<T>(key, options);
   return res.value;
@@ -23,7 +23,7 @@ async function getValue<T>(
 
 async function getValues<T>(
   selector: Deno.KvListSelector,
-  options?: Deno.KvListOptions
+  options?: Deno.KvListOptions,
 ) {
   const values = [];
   const iter = kv.list<T>(selector, options);
@@ -43,7 +43,7 @@ async function getManyValues<T>(keys: Deno.KvKey[]): Promise<(T | null)[]> {
 }
 
 export function assertIsEntry<T>(
-  entry: Deno.KvEntryMaybe<T>
+  entry: Deno.KvEntryMaybe<T>,
 ): asserts entry is Deno.KvEntry<T> {
   assertNotEquals(entry.value, null, `KV entry not found: ${entry.key}`);
 }
@@ -182,7 +182,7 @@ export async function getItemsByUser(userLogin: string) {
 
 export function listItemsByUser(
   userLogin: string,
-  options?: Deno.KvListOptions
+  options?: Deno.KvListOptions,
 ) {
   return kv.list<Item>({ prefix: ["items_by_user", userLogin] }, options);
 }
@@ -305,13 +305,13 @@ export async function getNotification(id: string) {
 
 export function listNotificationsByUser(
   userLogin: string,
-  options?: Deno.KvListOptions
+  options?: Deno.KvListOptions,
 ) {
   return kv.list<Notification>(
     {
       prefix: ["notifications_by_user", userLogin],
     },
-    options
+    options,
   );
 }
 
@@ -320,7 +320,7 @@ export async function ifUserHasNotifications(userLogin: string) {
     { prefix: ["notifications_by_user", userLogin] },
     {
       consistency: "eventual",
-    }
+    },
   );
   for await (const _entry of iter) return true;
   return false;
@@ -375,7 +375,7 @@ export async function deleteComment(comment: Comment) {
 
 export function listCommentsByItem(
   itemId: string,
-  options?: Deno.KvListOptions
+  options?: Deno.KvListOptions,
 ) {
   return kv.list<Comment>({ prefix: ["comments_by_item", itemId] }, options);
 }
@@ -596,7 +596,7 @@ export function listUsers(options?: Deno.KvListOptions) {
 
 export async function getAreVotedBySessionId(
   items: Item[],
-  sessionId?: string
+  sessionId?: string,
 ) {
   if (!sessionId) return [];
   const sessionUser = await getUserBySession(sessionId);
@@ -618,7 +618,7 @@ export async function incrVisitsCountByDay(date: Date) {
 
 export async function getManyMetrics(
   metric: "visits_count" | "items_count" | "votes_count" | "users_count",
-  dates: Date[]
+  dates: Date[],
 ) {
   const keys = dates.map((date) => [metric, formatDate(date)]);
   const res = await getManyValues<bigint>(keys);

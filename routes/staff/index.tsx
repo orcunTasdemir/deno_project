@@ -1,3 +1,4 @@
+// Copyright 2023 the Deno authors. All rights reserved. MIT license.
 import Head from "@/components/Head.tsx";
 import type { RouteContext } from "$fresh/server.ts";
 import { getAllStaff, listStaff, Staff } from "@/utils/db.ts";
