@@ -35,6 +35,7 @@ async function main() {
   };
 
   const iterator = iterateCsvRows(csvPath, csvStreamOptions);
+  iterator.next();
   for await (const row of iterator) {
     const staff: Staff = {
       id: crypto.randomUUID(),
