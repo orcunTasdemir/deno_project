@@ -23,8 +23,15 @@ interface Props {
 export default function StaffTable(props: Props) {
   // States for set staff
   const [staffs, setStaffs] = useState<Staff[]>([]);
+  //initially all orders from KV are desc so we set all initials to asc
+  //so the first click does not just do nothing and feel off
+  const initSortOrders: { [key: string]: "asc" | "desc" } = {
+    first_name: "asc",
+    last_name: "asc",
+    email: "asc",
+  };
   const [sortOrder, setSortOrder] = useState<{ [key: string]: "asc" | "desc" }>(
-    {}
+    initSortOrders
   );
 
   // Initialize staffs with props.staffs when the component mounts
