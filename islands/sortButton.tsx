@@ -1,12 +1,9 @@
 import { JSX } from "preact";
 
-function fn() {
-  return <h1>Hello</h1>;
-}
 const BUTTON_STYLES = "align-middle inline-block px-0.5";
 
 export default function SortButton(
-  props: JSX.HTMLAttributes<HTMLButtonElement>
+  props: JSX.IntrinsicAttributes & JSX.HTMLAttributes<HTMLButtonElement>
 ) {
   return (
     <button {...props} class={BUTTON_STYLES}>

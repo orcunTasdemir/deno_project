@@ -1,27 +1,7 @@
-// const first_staff: Staff = {
-//     id: "4",
-//     first_name: "fake",
-//     last_name: "fake",
-//     email: "fake",
-//   };
-//   console.log(first_staff);
-
-// Copyright 2023 the Deno authors. All rights reserved. MIT license.
+import SortButton from "@/islands/sortButton.tsx";
 import { sortBy } from "https://deno.land/std@0.203.0/collections/sort_by.ts";
-import { getAllStaff, listStaff, Staff } from "@/utils/db.ts";
+import { Staff } from "@/utils/db.ts";
 import { useEffect, useState } from "preact/hooks";
-import Head from "@/components/Head.tsx";
-import { RouteContext } from "$fresh/server.ts";
-import SortButton from "./sortButton.tsx";
-import { useSignal } from "@preact/signals";
-
-const TH_STYLES = "p-4 text-left";
-const TD_STYLES = "p-4";
-
-async function fetchStaff() {
-  console.log("is being called");
-  return await getAllStaff();
-}
 
 function StaffRow(props: Staff) {
   return (
@@ -33,28 +13,40 @@ function StaffRow(props: Staff) {
   );
 }
 
-function sortedByStringFields(staffList: Staff[], field: keyof Staff) {
-  sortBy(staffList, (el) => el[field]);
+const TH_STYLES = "p-4 text-left";
+const TD_STYLES = "p-4";
+
+interface Props {
+  staffs: Staff[];
 }
 
-export default function StaffsTable() {
-  const staffsSig = useSignal<Staff[]>([]);
-  const isLoadingSig = useSignal(false);
+export default function StaffTable(props: Props) {
+  // States for set staff
+  const [staffs, setStaffs] = useState<Staff[]>([]);
+  const [sortOrder, setSortOrder] = useState<{ [key: string]: "asc" | "desc" }>(
+    {}
+  );
 
-  async function loadStaff() {
-    isLoadingSig.value = true;
-    try {
-      const staffs = await fetchStaff();
-      staffsSig.value = [...staffsSig.value, ...staffs];
-    } catch (error) {
-      console.log(error.message);
-    } finally {
-      isLoadingSig.value = false;
-    }
-  }
+  // Initialize staffs with props.staffs when the component mounts
   useEffect(() => {
-    loadStaff();
-  }, []);
+    setStaffs(props.staffs);
+  }, [props.staffs]);
+
+  function sortedByStringFields(staffList: Staff[], field: keyof Staff) {
+    const currentSortOrder = sortOrder[field];
+    const newSortOrder = currentSortOrder === "asc" ? "desc" : "asc";
+    setSortOrder({ [field]: newSortOrder }); // Set the updated sort order first
+    setStaffs(
+      sortBy(staffList, (el) => el[field], {
+        order: newSortOrder,
+      })
+    );
+  }
+
+  // Log the updated staffs whenever it changes
+  useEffect(() => {
+    console.log("reordered: ", staffs);
+  }, [staffs]);
 
   return (
     <>
@@ -66,31 +58,28 @@ export default function StaffsTable() {
                 <th class={TH_STYLES}>
                   First Name{" "}
                   <SortButton
-                    onClick={() =>
-                      sortedByStringFields(staffsSig.value, "first_name")
-                    }
+                    onClick={() => {
+                      console.log("clicked");
+                      sortedByStringFields(staffs, "first_name");
+                    }}
                   />
                 </th>
                 <th class={TH_STYLES}>
                   Last Name{" "}
                   <SortButton
-                    onClick={() =>
-                      sortedByStringFields(staffsSig.value, "last_name")
-                    }
+                    onClick={() => sortedByStringFields(staffs, "last_name")}
                   />
                 </th>
                 <th class={TH_STYLES}>
                   Email{" "}
                   <SortButton
-                    onClick={() =>
-                      sortedByStringFields(staffsSig.value, "email")
-                    }
+                    onClick={() => sortedByStringFields(staffs, "email")}
                   />
                 </th>
               </tr>
             </thead>
             <tbody>
-              {staffsSig.value.map((staff) => (
+              {staffs.map((staff) => (
                 <StaffRow {...staff} />
               ))}
             </tbody>
