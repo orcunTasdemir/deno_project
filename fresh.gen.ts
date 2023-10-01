@@ -43,8 +43,10 @@ import * as $$0 from "./islands/Chart.tsx";
 import * as $$1 from "./islands/CommentsList.tsx";
 import * as $$2 from "./islands/NotificationsList.tsx";
 import * as $$3 from "./islands/PageInput.tsx";
-import * as $$4 from "./islands/UsersTable.tsx";
-import * as $$5 from "./islands/VoteButton.tsx";
+import * as $$4 from "./islands/StaffTable.tsx";
+import * as $$5 from "./islands/UsersTable.tsx";
+import * as $$6 from "./islands/VoteButton.tsx";
+import * as $$7 from "./islands/sortButton.tsx";
 
 const manifest = {
   routes: {
@@ -91,8 +93,10 @@ const manifest = {
     "./islands/CommentsList.tsx": $$1,
     "./islands/NotificationsList.tsx": $$2,
     "./islands/PageInput.tsx": $$3,
-    "./islands/UsersTable.tsx": $$4,
-    "./islands/VoteButton.tsx": $$5,
+    "./islands/StaffTable.tsx": $$4,
+    "./islands/UsersTable.tsx": $$5,
+    "./islands/VoteButton.tsx": $$6,
+    "./islands/sortButton.tsx": $$7,
   },
   baseUrl: import.meta.url,
 };

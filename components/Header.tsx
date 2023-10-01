@@ -59,13 +59,24 @@ export default function Header(props: {
         `}
       </script>
       <nav
-        class={"hidden flex-col gap-x-4 divide-y divide-solid sm:(flex items-center flex-row divide-y-0)"}
+        class={
+          "hidden flex-col gap-x-4 divide-y divide-solid sm:(flex items-center flex-row divide-y-0)"
+        }
       >
+        <a
+          href="/blog"
+          class={cx(
+            props.url.pathname === "/blog" ? ACTIVE_LINK_STYLES : LINK_STYLES,
+            NAV_ITEM
+          )}
+        >
+          Blog
+        </a>
         <a
           href="/staff"
           class={cx(
             props.url.pathname === "/staff" ? ACTIVE_LINK_STYLES : LINK_STYLES,
-            NAV_ITEM,
+            NAV_ITEM
           )}
         >
           Staff
@@ -76,45 +87,41 @@ export default function Header(props: {
             props.url.pathname === "/dashboard"
               ? ACTIVE_LINK_STYLES
               : LINK_STYLES,
-            NAV_ITEM,
+            NAV_ITEM
           )}
         >
           Dashboard
         </a>
-        {stripe
-          ? (
-            <a
-              href="/pricing"
-              class={cx(
-                props.url.pathname === "/pricing"
-                  ? ACTIVE_LINK_STYLES
-                  : LINK_STYLES,
-                NAV_ITEM,
-              )}
-            >
-              Pricing
-            </a>
-          )
-          : null}
-        {props.sessionId
-          ? (
-            <a
-              href="/account"
-              class={cx(
-                props.url.pathname === "/account"
-                  ? ACTIVE_LINK_STYLES
-                  : LINK_STYLES,
-                NAV_ITEM,
-              )}
-            >
-              Account
-            </a>
-          )
-          : (
-            <a href="/signin" class={cx(LINK_STYLES, NAV_ITEM)}>
-              Sign in
-            </a>
-          )}
+        {stripe ? (
+          <a
+            href="/pricing"
+            class={cx(
+              props.url.pathname === "/pricing"
+                ? ACTIVE_LINK_STYLES
+                : LINK_STYLES,
+              NAV_ITEM
+            )}
+          >
+            Pricing
+          </a>
+        ) : null}
+        {props.sessionId ? (
+          <a
+            href="/account"
+            class={cx(
+              props.url.pathname === "/account"
+                ? ACTIVE_LINK_STYLES
+                : LINK_STYLES,
+              NAV_ITEM
+            )}
+          >
+            Account
+          </a>
+        ) : (
+          <a href="/signin" class={cx(LINK_STYLES, NAV_ITEM)}>
+            Sign in
+          </a>
+        )}
         <a
           href="/notifications"
           class={cx(
@@ -122,7 +129,7 @@ export default function Header(props: {
               ? ACTIVE_LINK_STYLES
               : LINK_STYLES,
             NAV_ITEM,
-            "relative flex gap-2 items-center",
+            "relative flex gap-2 items-center"
           )}
           aria-label="Notifications"
         >
