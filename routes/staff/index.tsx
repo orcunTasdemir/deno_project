@@ -4,20 +4,14 @@ import { getAllStaff } from "@/utils/db.ts";
 
 import StaffTable from "@/islands/StaffTable.tsx";
 
-async function fetchStaff() {
-  console.log("is being called");
-  return await getAllStaff();
-}
-
 const MAIN_STYLES = "max-[500px]:text-sm";
 
-export default async function StaffPage() {
-  const staffs = await getAllStaff();
+export default function StaffPage() {
   return (
     <>
       {" "}
       <main class={MAIN_STYLES}>
-        <StaffTable staffs={staffs} />
+        <StaffTable />
       </main>
     </>
   );

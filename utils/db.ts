@@ -111,7 +111,7 @@ export async function getStaffByEmail(
 }
 
 export function listStaffByName(options?: Deno.KvListOptions) {
-  return kv.list<Staff>({ prefix: ["staff_by_name"] }, options);
+  return kv.list<Staff>({ prefix: ["staff_by_email"] }, options);
 }
 
 export async function getAllStaff() {

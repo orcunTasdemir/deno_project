@@ -2,11 +2,18 @@ import SortButton from "@/components/sortButton.tsx";
 import { sortBy } from "https://deno.land/std@0.203.0/collections/sort_by.ts";
 import { Staff } from "@/utils/db.ts";
 import { useEffect, useMemo, useState } from "preact/hooks";
-import { BUTTON_STYLES } from "../utils/constants.ts";
 import SearchBar from "@/components/SearchBar.tsx";
-import { VNode } from "preact";
-import { NONE } from "$fresh/runtime.ts";
-import { isUndefined } from "std/yaml/_utils.ts";
+import { useSignal } from "@preact/signals";
+
+async function fetchStaffs(cursor: string) {
+  let url = "api/staffs";
+  if (cursor !== "") url += "?cursor=" + cursor;
+  const resp = await fetch(url);
+  if (!resp.ok) {
+    throw new Error(`Request failed: GET ${url}`);
+  }
+  return (await resp.json()) as { staffs: Staff[]; cursor: string };
+}
 
 // Define the props interface for StaffRow
 interface StaffRowProps {
@@ -40,15 +47,40 @@ interface Props {
   staffs: Staff[];
 }
 
-export default function StaffTable(props: Props) {
+export default function StaffTable() {
+  const staffsSig = useSignal<Staff[]>([]);
+  const cursorSig = useSignal("");
+  const isLoadingSig = useSignal(false);
+
+  async function loadMoreStaff() {
+    isLoadingSig.value = true;
+    try {
+      const { staffs, cursor } = await fetchStaffs(cursorSig.value);
+      staffsSig.value = [...staffsSig.value, ...staffs];
+      cursorSig.value = cursor;
+    } catch (error) {
+      console.log(error.message);
+    } finally {
+      isLoadingSig.value = false;
+    }
+  }
+
+  useEffect(() => {
+    loadMoreStaff();
+  }, []);
+
+  console.log("Sig value: ", staffsSig.value);
+
   //State for staffs
   const [staffs, setStaffs] = useState<Staff[]>([]);
+
+  console.log("staffs: ", staffs);
 
   //State for the search text
   const [searchText, setSearchText] = useState("");
 
   //Memoized version of the initial staff list
-  const fullStaffList = useMemo(() => props.staffs, [props.staffs]);
+  const fullStaffList = useMemo(() => staffsSig.value, [staffsSig.value]);
 
   //initially all orders from KV are desc so we set all initials to asc
   const initSortOrders: { [key: string]: "asc" | "desc" } = {
@@ -77,11 +109,6 @@ export default function StaffTable(props: Props) {
     setStaffs(newStaffs);
   };
 
-  // Initialize staffs with props.staffs when the component mounts
-  useEffect(() => {
-    setStaffs(props.staffs);
-  }, [props.staffs]);
-
   function sortedByStringFields(staffList: Staff[], field: keyof Staff) {
     const currentSortOrder = sortOrder[field];
     const newSortOrder = currentSortOrder === "asc" ? "desc" : "asc";
@@ -98,6 +125,10 @@ export default function StaffTable(props: Props) {
   useEffect(() => {
     staffFilter();
   }, [searchText]);
+
+  useEffect(() => {
+    setStaffs(staffsSig.value);
+  }, [staffsSig.value]);
 
   return (
     <>
