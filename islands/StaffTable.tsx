@@ -5,21 +5,17 @@ import { useEffect, useMemo, useState } from "preact/hooks";
 import SearchBar from "@/components/SearchBar.tsx";
 import { useSignal } from "@preact/signals";
 
-async function fetchStaffs(cursor: string) {
-  let url = "api/staffs";
-  if (cursor !== "") url += "?cursor=" + cursor;
-  const resp = await fetch(url);
-  if (!resp.ok) {
-    throw new Error(`Request failed: GET ${url}`);
-  }
-  return (await resp.json()) as { staffs: Staff[]; cursor: string };
-}
-
-// Define the props interface for StaffRow
+// Define the props for StaffRow as interface
 interface StaffRowProps {
   index: number;
   staff: Staff;
 }
+//styling for the table
+const INDEX_STYLES =
+  "px-4 sm:px-1/2 max-w-fit flex-wrap mr-0 pr-1 border-solid border-white fill-current";
+const TR_STYLES = "max-w-fit hover:bg-denoColorLight";
+const TH_STYLES = "py-4 px-4 sm:px-1/2 text-left max-w-fit";
+const TD_STYLES = "py-4 px-4 sm:px-1/2 max-w-fit flex-nowrap";
 
 function StaffRow({ index, staff }: StaffRowProps) {
   return (
@@ -37,21 +33,28 @@ function StaffRow({ index, staff }: StaffRowProps) {
   );
 }
 
-const INDEX_STYLES =
-  "px-4 sm:px-1/2 max-w-fit flex-wrap mr-0 pr-1 border-solid border-white fill-current";
-const TR_STYLES = "max-w-fit hover:bg-denoColorLight";
-const TH_STYLES = "py-4 px-4 sm:px-1/2 text-left max-w-fit";
-const TD_STYLES = "py-4 px-4 sm:px-1/2 max-w-fit flex-nowrap";
-
-interface Props {
-  staffs: Staff[];
-}
-
 export default function StaffTable() {
+  //Signals for the api fetcher
   const staffsSig = useSignal<Staff[]>([]);
   const cursorSig = useSignal("");
   const isLoadingSig = useSignal(false);
+  //States for local state management
+  const [searchText, setSearchText] = useState("");
+  const [staffs, setStaffs] = useState<Staff[]>([]);
+  //Memoized fullStaffList fetched from api so we can reset the search filters when we want to
+  const fullStaffList = useMemo(() => staffsSig.value, [staffsSig.value]);
 
+  //Function to fetch staff from "api/staffs" see file
+  async function fetchStaffs(cursor: string) {
+    let url = "api/staffs";
+    if (cursor !== "") url += "?cursor=" + cursor;
+    const resp = await fetch(url);
+    if (!resp.ok) {
+      throw new Error(`Request failed: GET ${url}`);
+    }
+    return (await resp.json()) as { staffs: Staff[]; cursor: string };
+  }
+  //function to load staff
   async function loadMoreStaff() {
     isLoadingSig.value = true;
     try {
@@ -64,41 +67,31 @@ export default function StaffTable() {
       isLoadingSig.value = false;
     }
   }
-
+  //useEffect to call loadMoreStaff to initialzie our staffsSig signal
   useEffect(() => {
     loadMoreStaff();
   }, []);
 
-  console.log("Sig value: ", staffsSig.value);
-
-  //State for staffs
-  const [staffs, setStaffs] = useState<Staff[]>([]);
-
-  console.log("staffs: ", staffs);
-
-  //State for the search text
-  const [searchText, setSearchText] = useState("");
-
-  //Memoized version of the initial staff list
-  const fullStaffList = useMemo(() => staffsSig.value, [staffsSig.value]);
-
-  //initially all orders from KV are desc so we set all initials to asc
-  const initSortOrders: { [key: string]: "asc" | "desc" } = {
+  //sort field as a state that can hold first_name, last_name, and email
+  const [sortField, setSortField] = useState<keyof Staff>("first_name");
+  //Initialize the correct sort order so the first click is meaningfull
+  //all orders from KV are desc so we set all initials to asc
+  const initSortOrders: { [sortField: string]: "asc" | "desc" } = {
     first_name: "asc",
     last_name: "asc",
     email: "asc",
   };
-  const [sortOrder, setSortOrder] = useState<{ [key: string]: "asc" | "desc" }>(
-    initSortOrders
-  );
+  //setting up sortOrder state
+  const [sortOrder, setSortOrder] = useState<{
+    [sortField: string]: "asc" | "desc";
+  }>(initSortOrders);
 
-  //Handling search input changes
+  //Set search text everytime the input field has a different input
   const handleSearchChange = (value: string) => {
     setSearchText(value.toLowerCase());
-    staffFilter();
   };
 
-  // Function to filter staff based on the searchText value
+  //Function to filter staff based on the searchText value
   const staffFilter = () => {
     const newStaffs = fullStaffList.filter(
       (staff) =>
@@ -109,23 +102,27 @@ export default function StaffTable() {
     setStaffs(newStaffs);
   };
 
-  function sortedByStringFields(staffList: Staff[], field: keyof Staff) {
-    const currentSortOrder = sortOrder[field];
-    const newSortOrder = currentSortOrder === "asc" ? "desc" : "asc";
-    setSortOrder({ [field]: newSortOrder });
-    // Set the updated sort order first
-    setStaffs(
-      sortBy(staffList, (el) => el[field], {
-        order: newSortOrder,
-      })
-    );
+  //Sort by name, last name, or email
+  function sortedByStringFields(field: keyof Staff) {
+    const currentOrder = sortOrder[field];
+    const newOrder = currentOrder === "asc" ? "desc" : "asc";
+    setSortField(field);
+    setSortOrder({ ...initSortOrders, [field]: newOrder });
   }
 
-  // Effect to update filtered staffs whenever searchText changes
+  useEffect(() => {
+    const sortedStaffs = sortBy(staffs, (el) => el[sortField], {
+      order: sortOrder[sortField],
+    });
+    setStaffs(sortedStaffs);
+  }, [sortOrder]);
+
+  // Effect to call filter function whenever searchText changes
   useEffect(() => {
     staffFilter();
   }, [searchText]);
 
+  // Effect to set staffs at first from the staffs signal
   useEffect(() => {
     setStaffs(staffsSig.value);
   }, [staffsSig.value]);
@@ -142,21 +139,19 @@ export default function StaffTable() {
                   First Name{" "}
                   <SortButton
                     onClick={() => {
-                      sortedByStringFields(staffs, "first_name");
+                      sortedByStringFields("first_name");
                     }}
                   />
                 </th>
                 <th class={TH_STYLES}>
                   Last Name{" "}
                   <SortButton
-                    onClick={() => sortedByStringFields(staffs, "last_name")}
+                    onClick={() => sortedByStringFields("last_name")}
                   />
                 </th>
                 <th class={TH_STYLES}>
                   Email{" "}
-                  <SortButton
-                    onClick={() => sortedByStringFields(staffs, "email")}
-                  />
+                  <SortButton onClick={() => sortedByStringFields("email")} />
                 </th>
                 <th class={TH_STYLES}>
                   <SearchBar
@@ -168,7 +163,7 @@ export default function StaffTable() {
             </thead>
             <tbody>
               {staffs.map((staff, index) => (
-                <StaffRow index={index} staff={staff} key={staff.id} />
+                <StaffRow index={index + 1} staff={staff} key={staff.id} />
               ))}
             </tbody>
           </table>
