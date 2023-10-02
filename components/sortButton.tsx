@@ -8,7 +8,7 @@ export default function SortButton(
   return (
     <button {...props} class={BUTTON_STYLES}>
       <svg
-        fill="#fff"
+        class="fill-current hover:scale-150" //takes care of the OS color theme (light/dark) stuff
         xmlns="http://www.w3.org/2000/svg"
         height="1.2em"
         viewBox="0 0 320 512"

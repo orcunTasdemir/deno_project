@@ -82,23 +82,40 @@ export interface Staff {
 }
 
 export async function createStaff(staff: Staff) {
-  const staffKey = ["staff", staff.email];
+  const staffKey = ["staffs", staff.id];
+  const staffByEmailKey = ["staff_by_email", staff.email];
   const res = await kv
     .atomic()
-    .check({ key: staffKey, versionstamp: null })
+    .check({ key: staffKey, versionstamp: null }) //ids are UUID so this will never happen anyways
+    .check({ key: staffByEmailKey, versionstamp: null })
     .set(staffKey, staff)
+    .set(staffByEmailKey, staff)
     .commit();
   if (!res.ok) {
     console.log("Duplicate staff entry for staff with email: " + staff.email);
   }
 }
 
-export function listStaff(id: string, options?: Deno.KvListOptions) {
-  return kv.list<Staff>({ prefix: ["staff", id] }, options);
+export async function getStaff(id: string) {
+  return await getValue<Staff>(["staffs", id]);
+}
+
+export async function getStaffByEmail(
+  email: string,
+  options?: Deno.KvListOptions,
+) {
+  return await getValue<Staff>(
+    ["staff_by_email", email],
+    options,
+  );
+}
+
+export function listStaffByName(options?: Deno.KvListOptions) {
+  return kv.list<Staff>({ prefix: ["staff_by_name"] }, options);
 }
 
 export async function getAllStaff() {
-  return await getValues<Staff>({ prefix: ["staff"] });
+  return await getValues<Staff>({ prefix: ["staffs"] });
 }
 
 // Item

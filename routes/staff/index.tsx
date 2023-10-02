@@ -9,11 +9,16 @@ async function fetchStaff() {
   return await getAllStaff();
 }
 
+const MAIN_STYLES = "max-[500px]:text-sm";
+
 export default async function StaffPage() {
   const staffs = await getAllStaff();
   return (
     <>
-      <StaffTable staffs={staffs} />
+      {" "}
+      <main class={MAIN_STYLES}>
+        <StaffTable staffs={staffs} />
+      </main>
     </>
   );
 }

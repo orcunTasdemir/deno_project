@@ -40,9 +40,9 @@ async function main() {
   for await (const row of iterator) {
     const staff: Staff = {
       id: crypto.randomUUID(),
-      first_name: row[0],
-      last_name: row[1],
-      email: row[2],
+      first_name: row[0].toLowerCase(),
+      last_name: row[1].toLowerCase(),
+      email: row[2].toLowerCase(),
     };
     console.log(staff);
     createStaff(staff);
