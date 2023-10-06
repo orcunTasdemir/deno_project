@@ -1,12 +1,12 @@
 import Head from "@/components/Head.tsx";
 import type { RouteContext } from "$fresh/server.ts";
-import { Staff, getAllStaff, listStaff } from "@/utils/db.ts";
+import { getStaffer, listStaffers, Staff } from "@/utils/db-reps.ts";
 
 function StaffRow(staff: Staff) {
   return (
     <tr>
-      <td class={TD_STYLES}>{staff.first_name}</td>
-      <td class={TD_STYLES}>{staff.last_name}</td>
+      <td class={TD_STYLES}>{staff.firstName}</td>
+      <td class={TD_STYLES}>{staff.lastName}</td>
       <td class={TD_STYLES}>{staff.email}</td>
     </tr>
   );
@@ -16,7 +16,7 @@ const TH_STYLES = "p-4 text-left";
 const TD_STYLES = "p-4";
 
 export default async function StaffsPage(_req: Request, ctx: RouteContext) {
-  const staffs = await getAllStaff();
+  const staffs = await listStaffers();
   return (
     <>
       <Head title="Staff" href={ctx.url.href} />
@@ -31,9 +31,9 @@ export default async function StaffsPage(_req: Request, ctx: RouteContext) {
               </tr>
             </thead>
             <tbody>
-              {staffs.map((staff) => (
-                <StaffRow {...staff} />
-              ))}
+              {staffs.sort((a, b) => {
+                return ("" + a.lastName).localeCompare(b.lastName);
+              }).map((staff) => <StaffRow {...staff} />)}
             </tbody>
           </table>
         </div>

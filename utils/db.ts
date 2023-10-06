@@ -3,19 +3,19 @@ import { assertNotEquals } from "std/testing/asserts.ts";
 import { chunk } from "std/collections/chunk.ts";
 
 const KV_PATH_KEY = "KV_PATH";
-let path = "./DB/db";
-// if (
-//   (await Deno.permissions.query({ name: "env", variable: KV_PATH_KEY }))
-//     .state === "granted"
-// ) {
-//   path = Deno.env.get(KV_PATH_KEY);
-// }
+let path = undefined;
+if (
+  (await Deno.permissions.query({ name: "env", variable: KV_PATH_KEY }))
+    .state === "granted"
+) {
+  path = Deno.env.get(KV_PATH_KEY);
+}
 export const kv = await Deno.openKv(path);
 
 // Helpers
 async function getValue<T>(
   key: Deno.KvKey,
-  options?: { consistency?: Deno.KvConsistencyLevel }
+  options?: { consistency?: Deno.KvConsistencyLevel },
 ) {
   const res = await kv.get<T>(key, options);
   return res.value;
@@ -23,7 +23,7 @@ async function getValue<T>(
 
 async function getValues<T>(
   selector: Deno.KvListSelector,
-  options?: Deno.KvListOptions
+  options?: Deno.KvListOptions,
 ) {
   const values = [];
   const iter = kv.list<T>(selector, options);
@@ -34,16 +34,20 @@ async function getValues<T>(
 /**
  * Gets many values from KV. Uses batched requests to get values in chunks of 10.
  */
-async function getManyValues<T>(keys: Deno.KvKey[]): Promise<(T | null)[]> {
+async function getManyValues<T>(
+  keys: Deno.KvKey[],
+): Promise<(T | null)[]> {
   const promises = [];
   for (const batch of chunk(keys, 10)) {
     promises.push(kv.getMany<T[]>(batch));
   }
-  return (await Promise.all(promises)).flat().map((entry) => entry?.value);
+  return (await Promise.all(promises))
+    .flat()
+    .map((entry) => entry?.value);
 }
 
 export function assertIsEntry<T>(
-  entry: Deno.KvEntryMaybe<T>
+  entry: Deno.KvEntryMaybe<T>,
 ): asserts entry is Deno.KvEntry<T> {
   assertNotEquals(entry.value, null, `KV entry not found: ${entry.key}`);
 }
@@ -71,32 +75,6 @@ export async function collectValues<T>(iter: Deno.KvListIterator<T>) {
 /** Converts `Date` to ISO format that is zero UTC offset */
 export function formatDate(date: Date) {
   return date.toISOString().split("T")[0];
-}
-
-//Staff
-export interface Staff {
-  id: string;
-  first_name: string;
-  last_name: string;
-  email: string;
-}
-
-export async function createStaff(staff: Staff) {
-  const staffKey = ["staff", staff.id];
-  const res = await kv
-    .atomic()
-    .check({ key: staffKey, versionstamp: null })
-    .set(staffKey, staff)
-    .commit();
-  if (!res.ok) throw new Error(`Failed to create staff: ${staff}`);
-}
-
-export function listStaff(id: string, options?: Deno.KvListOptions) {
-  return kv.list<Staff>({ prefix: ["staff", id] }, options);
-}
-
-export async function getAllStaff() {
-  return await getValues<Staff>({ prefix: ["staff"] });
 }
 
 // Item
@@ -141,8 +119,7 @@ export async function createItem(item: Item) {
   const itemsByUserKey = ["items_by_user", item.userLogin, item.id];
   const itemsCountKey = ["items_count", formatDate(item.createdAt)];
 
-  const res = await kv
-    .atomic()
+  const res = await kv.atomic()
     .check({ key: itemsKey, versionstamp: null })
     .check({ key: itemsByTimeKey, versionstamp: null })
     .check({ key: itemsByUserKey, versionstamp: null })
@@ -160,8 +137,7 @@ export async function deleteItem(item: Item) {
   const itemsByTimeKey = ["items_by_time", item.createdAt.getTime(), item.id];
   const itemsByUserKey = ["items_by_user", item.userLogin, item.id];
 
-  const res = await kv
-    .atomic()
+  const res = await kv.atomic()
     .delete(itemsKey)
     .delete(itemsByTimeKey)
     .delete(itemsByUserKey)
@@ -180,7 +156,7 @@ export async function getItemsByUser(userLogin: string) {
 
 export function listItemsByUser(
   userLogin: string,
-  options?: Deno.KvListOptions
+  options?: Deno.KvListOptions,
 ) {
   return kv.list<Item>({ prefix: ["items_by_user", userLogin] }, options);
 }
@@ -264,8 +240,7 @@ export async function createNotification(notification: Notification) {
     notification.id,
   ];
 
-  const res = await kv
-    .atomic()
+  const res = await kv.atomic()
     .check({ key: notificationsKey, versionstamp: null })
     .check({ key: notificationsByUserKey, versionstamp: null })
     .set(notificationsKey, notification)
@@ -286,8 +261,7 @@ export async function deleteNotification(notification: Notification) {
     notification.id,
   ];
 
-  const res = await kv
-    .atomic()
+  const res = await kv.atomic()
     .delete(notificationsKey)
     .delete(notificationsByUserKey)
     .commit();
@@ -303,23 +277,17 @@ export async function getNotification(id: string) {
 
 export function listNotificationsByUser(
   userLogin: string,
-  options?: Deno.KvListOptions
+  options?: Deno.KvListOptions,
 ) {
-  return kv.list<Notification>(
-    {
-      prefix: ["notifications_by_user", userLogin],
-    },
-    options
-  );
+  return kv.list<Notification>({
+    prefix: ["notifications_by_user", userLogin],
+  }, options);
 }
 
 export async function ifUserHasNotifications(userLogin: string) {
-  const iter = kv.list(
-    { prefix: ["notifications_by_user", userLogin] },
-    {
-      consistency: "eventual",
-    }
-  );
+  const iter = kv.list({ prefix: ["notifications_by_user", userLogin] }, {
+    consistency: "eventual",
+  });
   for await (const _entry of iter) return true;
   return false;
 }
@@ -349,8 +317,7 @@ export async function createComment(comment: Comment) {
     comment.id,
   ];
 
-  const res = await kv
-    .atomic()
+  const res = await kv.atomic()
     .check({ key: commentsByItemKey, versionstamp: null })
     .set(commentsByItemKey, comment)
     .commit();
@@ -366,14 +333,16 @@ export async function deleteComment(comment: Comment) {
     comment.id,
   ];
 
-  const res = await kv.atomic().delete(commentsByItemKey).commit();
+  const res = await kv.atomic()
+    .delete(commentsByItemKey)
+    .commit();
 
   if (!res.ok) throw new Error(`Failed to delete comment: ${comment}`);
 }
 
 export function listCommentsByItem(
   itemId: string,
-  options?: Deno.KvListOptions
+  options?: Deno.KvListOptions,
 ) {
   return kv.list<Comment>({ prefix: ["comments_by_item", itemId] }, options);
 }
@@ -418,8 +387,7 @@ export async function createVote(vote: Vote) {
   const votesByUserKey = ["votes_by_user", vote.userLogin, vote.id];
   const votesCountKey = ["votes_count", formatDate(vote.createdAt)];
 
-  const res = await kv
-    .atomic()
+  const res = await kv.atomic()
     .check(itemRes)
     .check(itemsByTimeRes)
     .check(itemsByUserRes)
@@ -461,8 +429,7 @@ export async function deleteVote(vote: Vote) {
   const votesByItemKey = ["votes_by_item", vote.item.id, vote.id];
   const votesByUserKey = ["votes_by_user", vote.userLogin, vote.id];
 
-  const res = await kv
-    .atomic()
+  const res = await kv.atomic()
     .check(itemRes)
     .check(itemsByTimeRes)
     .check(itemsByUserRes)
@@ -551,7 +518,8 @@ export async function updateUser(user: User) {
       "users_by_stripe_customer",
       user.stripeCustomerId,
     ];
-    atomicOp.set(usersByStripeCustomerKey, user);
+    atomicOp
+      .set(usersByStripeCustomerKey, user);
   }
 
   const res = await atomicOp
@@ -573,15 +541,16 @@ export async function getUser(login: string) {
 
 export async function getUserBySession(sessionId: string) {
   const usersBySessionKey = ["users_by_session", sessionId];
-  return (
-    (await getValue<User>(usersBySessionKey, {
-      consistency: "eventual",
-    })) ?? (await getValue<User>(usersBySessionKey))
-  );
+  return await getValue<User>(usersBySessionKey, {
+    consistency: "eventual",
+  }) ?? await getValue<User>(usersBySessionKey);
 }
 
 export async function getUserByStripeCustomer(stripeCustomerId: string) {
-  return await getValue<User>(["users_by_stripe_customer", stripeCustomerId]);
+  return await getValue<User>([
+    "users_by_stripe_customer",
+    stripeCustomerId,
+  ]);
 }
 
 export async function getUsers() {
@@ -594,7 +563,7 @@ export function listUsers(options?: Deno.KvListOptions) {
 
 export async function getAreVotedBySessionId(
   items: Item[],
-  sessionId?: string
+  sessionId?: string,
 ) {
   if (!sessionId) return [];
   const sessionUser = await getUserBySession(sessionId);
@@ -611,12 +580,14 @@ export function compareScore(a: Item, b: Item) {
 // Analytics
 export async function incrVisitsCountByDay(date: Date) {
   const visitsKey = ["visits_count", formatDate(date)];
-  await kv.atomic().sum(visitsKey, 1n).commit();
+  await kv.atomic()
+    .sum(visitsKey, 1n)
+    .commit();
 }
 
 export async function getManyMetrics(
   metric: "visits_count" | "items_count" | "votes_count" | "users_count",
-  dates: Date[]
+  dates: Date[],
 ) {
   const keys = dates.map((date) => [metric, formatDate(date)]);
   const res = await getManyValues<bigint>(keys);

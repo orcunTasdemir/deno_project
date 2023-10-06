@@ -1,12 +1,16 @@
 import {
   CsvStream,
-  type CsvStreamOptions,
+  CsvStreamOptions,
 } from "https://deno.land/std@0.166.0/encoding/csv/stream.ts";
 
-import { createStaffer, kv, type Staffer } from "@/utils/db-reps.ts";
+import { kv } from "@/utils/db.ts";
+
+import { createStaffer, Staffer } from "@/utils/db-reps.ts";
+
 /**
  * A helper async generator function which yields the parsed CSV rows
  */
+
 async function* iterateCsvRows(
   filePath: string,
   options?: CsvStreamOptions,
@@ -28,7 +32,7 @@ async function* iterateCsvRows(
 }
 
 async function main() {
-  const csvPath = "data/staff.csv";
+  const csvPath = "data/reps-2023-08.csv";
 
   const csvStreamOptions: CsvStreamOptions = {
     separator: ",",

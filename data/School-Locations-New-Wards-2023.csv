@@ -1,0 +1,650 @@
+Ward,SchoolID,DeptID,SchoolShortName,SchoolLongName,GradeCat,CPSPositions,CTUMembers,CTUNetwork,Address,City,State,Zip
+1,609809,22311,BRENTANO,Lorenz Brentano Math & Science Academy ES,ES,69,50,04C,2723 N FAIRFIELD AVE,Chicago,Illinois,60647
+1,609853,22701,CHASE,Salmon P Chase Elementary School,ES,90,50,04A,2021 N POINT ST,Chicago,Illinois,60647
+1,609863,22791,COLUMBUS,Christopher Columbus Elementary School,ES,24,21,05A,1003 N LEAVITT ST,Chicago,Illinois,60622
+1,609942,23341,GOETHE,Johann W von Goethe Elementary School,ES,84,55,04C,2236 N ROCKWELL ST,Chicago,Illinois,60647
+1,610029,24101,LOZANO,Rodolfo Lozano Bilingual & International Ctr ES,ES,53,29,06A,1501 N GREENVIEW AVE,Chicago,Illinois,60642
+1,610107,24791,OTIS,James Otis Elementary School,ES,70,37,06A,525 N ARMOUR ST,Chicago,Illinois,60642
+1,610229,25871,PRITZKER,A.N. Pritzker School,ES,58,47,06A,2009 W SCHILLER ST,Chicago,Illinois,60622
+1,610520,29101,LASALLE II,LaSalle II Magnet Elementary School,ES,62,48,06A,1148 N HONORE ST,Chicago,Illinois,60622
+1,610342,29371,SABIN,Albert R Sabin Elementary Magnet School,ES,50,35,05A,2216 W HIRSCH ST,Chicago,Illinois,60622
+1,610313,31261,DE DIEGO,Jose De Diego Elementary Community Academy,ES,80,47,05A,1313 N CLAREMONT AVE,Chicago,Illinois,60622
+1,609740,51071,WELLS HS,Wells Community Academy High School,HS,56,37,015,936 N ASHLAND AVE,Chicago,Illinois,60622
+1,609759,51091,CLEMENTE HS,Roberto Clemente Community Academy High School,HS,116,66,015,1147 N WESTERN AVE,Chicago,Illinois,60622
+1,400051,66141,NOBLE - NOBLE HS,Noble - Noble College Prep,HS,0,0,,1010 N NOBLE ST,Chicago,Illinois,60642
+1,400055,66143,NOBLE - RAUNER HS,Noble - Rauner College Prep,HS,0,0,,1337 W OHIO ST,Chicago,Illinois,60642
+1,400096,66571,ROWE,Rowe Elementary Charter School,ES,0,0,,1424 N CLEAVER ST,Chicago,Illinois,60642
+2,610101,24731,OGDEN ES,William B Ogden Elementary School,ES,173,137,015,24 W WALTON ST,Chicago,Illinois,60610
+2,609926,29081,FRANKLIN,Franklin Elementary Fine Arts Center,ES,38,30,04B,225 W EVERGREEN AVE,Chicago,Illinois,60610
+3,609819,22411,BURKE,Edmond Burke Elementary School,ES,50,34,09B,5356 S KING DR,Chicago,Illinois,60615
+3,609894,23011,DRAKE,John B Drake Elementary School,ES,46,27,09A,2710 S DEARBORN ST,Chicago,Illinois,60616
+3,609990,23751,SOUTH LOOP,South Loop Elementary School,ES,82,62,06B,1601 S DEARBORN ST,Chicago,Illinois,60616
+3,610110,24811,WELLS ES,Ida B Wells Preparatory Elementary Academy,ES,48,31,09A,249 E 37TH ST,Chicago,Illinois,60653
+3,610237,25931,BEETHOVEN,Ludwig Van Beethoven Elementary School,ES,44,23,09A,25 W 47TH ST,Chicago,Illinois,60609
+3,610590,26181,BRONZEVILLE CLASSICAL,Bronzeville Classical Elementary School,ES,36,24,09A,8 W ROOT,Chicago,Illinois,60609
+3,610276,26251,MOLLISON,Irvin C Mollison Elementary School,ES,43,29,09A,4415 S DR MARTIN L KING JR DR,Chicago,Illinois,60653
+3,610345,26541,WOODSON,Carter G Woodson South Elementary School,ES,48,26,09A,4414 S EVANS AVE,Chicago,Illinois,60653
+3,610246,29321,BEASLEY,Edward Beasley Elementary Magnet Academic Center,ES,120,81,09B,5255 S STATE ST,Chicago,Illinois,60609
+3,610231,32031,NATIONAL TEACHERS,National Teachers Elementary Academy,ES,72,58,AUSL-S,55 W CERMAK RD,Chicago,Illinois,60616
+3,609727,46261,PHILLIPS HS,Wendell Phillips Academy High School,HS,73,45,AUSL-S,244 E PERSHING RD,Chicago,Illinois,60653
+3,609769,49101,GRAHAM HS,Ray Graham Training Center High School,HS,79,32,014,2347 S WABASH AVE,Chicago,Illinois,60616
+3,610380,55161,WILLIAMS HS,Daniel Hale Williams Prep School of Medicine,HS,28,16,017,4934 S WABASH AVE,Chicago,Illinois,60615
+3,610381,55191,BRONZEVILLE HS,Bronzeville Scholastic Academy High School,HS,24,16,017,4934 S WABASH AVE,Chicago,Illinois,60615
+3,400064,66051,PERSPECTIVES - JOSLIN HS,Perspectives - Rodney D. Joslin,HS,0,0,,1930 S ARCHER AVE,Chicago,Illinois,60616
+3,400066,66056,PERSPECTIVES - MATH & SCI HS,Perspectives - Math and Science Academy,HS,0,0,,3663 S WABASH AVE,Chicago,Illinois,60653
+3,400124,66107,YCCS - MCKINLEY,YCCS- McKinley Lakeside Leadership HS,HS,2,0,,2920 S WABASH AVE,Chicago,Illinois,60616
+3,400145,66629,YCCS - YOUTH CONNECTION,YCCS-Youth Connection Leadership Acad HS,HS,2,10,CTUA2,3424 S STATE ST,Chicago,Illinois,60616
+3,609754,70070,CHICAGO MILITARY HS,Chicago Military Academy High School,HS,49,29,017,3519 S GILES AVE,Chicago,Illinois,60653
+4,609891,22991,DOOLITTLE,James R Doolittle Jr Elementary School,ES,36,24,09A,535 E 35TH ST,Chicago,Illinois,60616
+4,609928,23271,FULLER,Melville W Fuller Elementary School,ES,47,33,AUSL-S,4214 S ST LAWRENCE AVE,Chicago,Illinois,60653
+4,609951,23421,ARIEL,Ariel Elementary Community Academy,ES,62,33,09A,1119 E 46TH ST,Chicago,Illinois,60653
+4,610143,25091,REAVIS,William C Reavis Math & Science Specialty ES,ES,47,26,09A,834 E 50TH ST,Chicago,Illinois,60615
+4,610175,25371,SHOESMITH,Beulah Shoesmith Elementary School,ES,38,21,09B,1330 E 50TH ST,Chicago,Illinois,60615
+4,610256,26061,ROBINSON,Jackie Robinson Elementary School,ES,24,17,09A,4225 S LAKE PARK AVE,Chicago,Illinois,60653
+4,610126,29251,PERSHING,John J Pershing Elementary Humanities Magnet,ES,55,37,09A,3200 S CALUMET AVE,Chicago,Illinois,60616
+4,609751,46371,KING HS,Dr  Martin Luther King  Jr  College Prep HS,HS,91,47,017,4445 S DREXEL BLVD,Chicago,Illinois,60653
+4,609678,47021,JONES HS,William Jones College Preparatory High School,HS,172,128,06B,700 S STATE ST,Chicago,Illinois,60605
+4,609676,53021,DUNBAR HS,Paul Laurence Dunbar Career Academy High School,HS,67,36,017,3000 S KING DR,Chicago,Illinois,60616
+4,400137,63161,LITTLE BLACK PEARL HS,Little Black Pearl Art and Design Academy,HS,1,0,,1060 E 47TH ST,Chicago,Illinois,60653
+4,400076,66111,U OF C - NKO,University of Chicago - North Kenwood/Oakland,ES,0,0,,1119 E 46TH ST,Chicago,Illinois,60653
+4,400075,66321,U OF C - DONOGHUE,University of Chicago - Donoghue,ES,4,0,,707 E 37TH ST,Chicago,Illinois,60653
+4,400105,66442,URBAN PREP - BRONZEVILLE HS,Urban Prep Academy for Young Men - Bronzeville,HS,2,16,CTUA2,521 E 35TH ST,Chicago,Illinois,60616
+5,610530,22251,SOUTH SHORE ES,South Shore Fine Arts Academy,ES,63,31,12A,1415 E 70TH ST,Chicago,Illinois,60637
+5,609837,22551,CARNEGIE,Andrew Carnegie Elementary School,ES,53,39,09B,1414 E 61ST PL,Chicago,Illinois,60637
+5,609969,23561,HARTE,Bret Harte Elementary School,ES,36,27,09B,1556 E 56TH ST,Chicago,Illinois,60637
+5,610103,24751,OKEEFFE,Isabelle C O'Keeffe Elementary School,ES,67,52,AUSL-S,6940 S MERRILL AVE,Chicago,Illinois,60649
+5,610142,25071,RAY,William H Ray Elementary School,ES,62,49,09B,5631 S KIMBARK AVE,Chicago,Illinois,60637
+5,610146,25121,REVERE,Paul Revere Elementary School,ES,32,17,12A,1010 E 72ND ST,Chicago,Illinois,60619
+5,610090,29221,MURRAY,Phillip Murray Elementary Language Academy,ES,47,32,09B,5335 S KENWOOD AVE,Chicago,Illinois,60615
+5,610030,31151,KOZMINSKI,Charles Kozminski Elementary Community Academy,ES,38,22,09B,936 E 54TH ST,Chicago,Illinois,60615
+5,610116,31201,PARKSIDE,Parkside Elementary Community Academy,ES,38,23,12A,6938 S EAST END AVE,Chicago,Illinois,60649
+5,609713,46171,HYDE PARK HS,Hyde Park Academy High School,HS,91,61,017,6220 S STONY ISLAND AVE,Chicago,Illinois,60637
+5,609746,46361,KENWOOD HS,Kenwood Academy High School,HS,178,137,017,5015 S BLACKSTONE AVE,Chicago,Illinois,60615
+5,400052,66146,NOBLE - COMER,Noble - Gary Comer College Prep,HS,0,0,,7131 S SOUTH CHICAGO AVE,Chicago,Illinois,60619
+6,609813,22361,BROWNELL,Charles S Brownell Elementary School,ES,27,15,12A,6741 S MICHIGAN AVE,Chicago,Illinois,60637
+6,609883,22931,DENEEN,Charles S Deneen Elementary School,ES,64,38,AUSL-S,7240 S WABASH AVE,Chicago,Illinois,60619
+6,609887,22971,DIXON,Arthur Dixon Elementary School,ES,46,33,12A,8306 S SAINT LAWRENCE AVE,Chicago,Illinois,60619
+6,609939,23321,GILLESPIE,Frank L Gillespie Elementary School,ES,58,30,12B,9301 S STATE ST,Chicago,Illinois,60619
+6,609971,23581,HARVARD,John Harvard Elementary School of Excellence,ES,70,32,AUSL-S,7525 S HARVARD,Chicago,Illinois,60620
+6,610093,24651,NEIL,Jane A Neil Elementary School,ES,86,30,12B,8555 S MICHIGAN AVE,Chicago,Illinois,60619
+6,610115,24841,PARK MANOR,Park Manor Elementary School,ES,39,23,12A,7037 S RHODES AVE,Chicago,Illinois,60637
+6,610130,24971,PIRIE,John T Pirie Fine Arts & Academic Center ES,ES,34,22,12B,650 E 85TH ST,Chicago,Illinois,60619
+6,610152,25181,RUGGLES,Martha Ruggles Elementary School,ES,49,30,12B,7831 S PRAIRIE AVE,Chicago,Illinois,60619
+6,610279,26281,TANNER,Henry O Tanner Elementary School,ES,50,25,12A,7350 S EVANS AVE,Chicago,Illinois,60619
+6,610290,26321,MAYS,Benjamin E Mays Elementary Academy,ES,44,25,11A,6656 S NORMAL BLVD,Chicago,Illinois,60621
+6,610299,26371,KING ES,Dr. Martin L. King Jr Academy of Social Justice,ES,41,28,11B,644 W 71ST ST,Chicago,Illinois,60621
+6,610300,26381,WESTCOTT,Oliver S Westcott Elementary School,ES,54,33,11B,409 W 80TH ST,Chicago,Illinois,60620
+6,610066,29181,MCDADE,James E McDade Elementary Classical School,ES,24,15,12B,8801 S INDIANA AVE,Chicago,Illinois,60619
+6,610298,29361,LENART,Lenart Elementary Regional Gifted Center,ES,27,20,11B,8101 S LASALLE ST,Chicago,Illinois,60620
+6,610112,31181,PARKER,Francis W Parker Elementary Community Academy,ES,64,37,11A,6800 S STEWART AVE,Chicago,Illinois,60621
+6,610592,46691,ENGLEWOOD STEM HS,Englewood STEM High School,HS,122,70,016,6835 S NORMAL,Chicago,Illinois,60621
+6,609692,53061,SIMEON HS,Neal F Simeon Career Academy High School,HS,144,104,017,8147 S VINCENNES AVE,Chicago,Illinois,60620
+7,609806,22291,BRADWELL,Myra Bradwell Communications Arts & Sciences ES,ES,56,34,AUSL-S,7736 S BURNHAM AVE,Chicago,Illinois,60649
+7,609815,22371,BOUCHET,Edward A Bouchet Math & Science Academy ES,ES,80,53,12A,7355 S JEFFERY BLVD,Chicago,Illinois,60649
+7,609821,22431,BURNHAM,Burnham Elementary Inclusive Academy,ES,62,39,13B,9928 S CRANDON AVE,Chicago,Illinois,60617
+7,609862,22771,COLES,Edward Coles Elementary Language Academy,ES,46,29,12A,8441 S YATES BLVD,Chicago,Illinois,60617
+7,610002,23871,HOYNE,Thomas Hoyne Elementary School,ES,27,18,12B,8905 S CRANDON AVE,Chicago,Illinois,60617
+7,610218,25761,WARREN,Joseph Warren Elementary School,ES,33,20,12B,9239 S JEFFERY AVE,Chicago,Illinois,60617
+7,610281,26291,POWELL,Adam Clayton Powell Paideia Community Academy ES,ES,63,41,12A,7511 S SOUTH SHORE DR,Chicago,Illinois,60649
+7,609961,31101,NINOS HEROES,Ninos Heroes Elementary Academic Center,ES,48,24,12A,8344 S COMMERCIAL AVE,Chicago,Illinois,60617
+7,610323,46491,BOWEN HS,Bowen High School,HS,53,28,017,2710 E 89TH ST,Chicago,Illinois,60617
+7,400094,63081,EPIC HS,EPIC Academy Charter High School,HS,3,45,CTUA2,8255 S HOUSTON AVE,Chicago,Illinois,60617
+7,400175,63143,EXCEL SOUTH SHORE HS,Excel Academy of South Shore,HS,1,0,,7530 S SOUTH SHORE DR,Chicago,Illinois,60649
+7,610572,66011,SAFE ACHIEVE ES,Safe Achieve Academy Elementary,ES,0,0,,7877 S COLES AVE,Chicago,Illinois,60649
+7,610573,66012,SAFE ACHIEVE HS,Safe Achieve Academy HS,HS,0,0,,7877 S COLES AVE,Chicago,Illinois,60649
+7,400157,66577,NOBLE - BAKER HS,Noble - Baker College Prep,HS,0,0,,2710 E 89TH ST,Chicago,Illinois,60617
+7,400168,66951,GREAT LAKES,Great Lakes Academy Charter School,ES,0,0,,8401 S SAGINAW AVE,Chicago,Illinois,60617
+8,609786,22101,AVALON PARK,Avalon Park Elementary School,ES,37,20,12A,8045 S KENWOOD AVE,Chicago,Illinois,60619
+8,609833,22511,CALDWELL,Charles P Caldwell Academy of Math & Science ES,ES,36,25,12A,8546 S CREGIER AVE,Chicago,Illinois,60617
+8,609978,23641,SMITH,Wendell Smith Elementary School,ES,48,29,13A,744 E 103RD ST,Chicago,Illinois,60628
+8,610047,24301,MADISON,James Madison Elementary School,ES,32,17,12A,7433 S DORCHESTER AVE,Chicago,Illinois,60619
+8,610052,24331,MANN,Horace Mann Elementary School,ES,36,24,12B,8050 S CHAPPEL AVE,Chicago,Illinois,60617
+8,610124,24921,WASHINGTON H ES,Harold Washington Elementary School,ES,39,26,12B,9130 S UNIVERSITY AVE,Chicago,Illinois,60619
+8,610178,25391,SCHMID,Theophilus Schmid Elementary School,ES,37,21,12B,9755 S GREENWOOD AVE,Chicago,Illinois,60628
+8,610268,26191,ASHE,Arthur R Ashe Elementary School,ES,46,30,12B,8505 S INGLESIDE AVE,Chicago,Illinois,60619
+8,610312,26421,MCDOWELL,Mary E McDowell Elementary School,ES,24,15,12B,1419 E 89TH ST,Chicago,Illinois,60619
+8,610316,26441,EARHART,Amelia Earhart Options for Knowledge ES,ES,24,16,12B,1710 E 93RD ST,Chicago,Illinois,60617
+8,609827,29021,BURNSIDE,Burnside Elementary Scholastic Academy,ES,54,32,12B,650 E 91ST PL,Chicago,Illinois,60619
+8,610350,29381,BLACK,Robert A Black Magnet Elementary School,ES,48,31,12A,9101 S EUCLID AVE,Chicago,Illinois,60617
+8,610547,46631,SOUTH SHORE INTL HS,South Shore Intl College Prep High School,HS,73,47,017,1955 E 75TH ST,Chicago,Illinois,60649
+8,609712,47031,HIRSCH HS,Emil G Hirsch Metropolitan High School,HS,32,18,017,7740 S INGLESIDE AVE,Chicago,Illinois,60619
+8,609674,53011,CHICAGO VOCATIONAL HS,Chicago Vocational Career Academy High School,HS,125,63,017,2100 E 87TH ST,Chicago,Illinois,60617
+8,400023,66371,CICS - AVALON/SOUTH SHORE,CICS - Avalon/South Shore,ES,0,0,,1501 E 83RD PL,Chicago,Illinois,60619
+8,400136,66621,YCCS - OLIVE HARVEY,YCCS-Olive Harvey Middle College HS,HS,0,0,,10001 S WOODLAWN AVE,Chicago,Illinois,60628
+8,400139,66623,YCCS - SULLIVAN,YCCS-Sullivan House Alternative HS,HS,2,0,,8164 S SOUTH CHICAGO AVE,Chicago,Illinois,60617
+8,400150,66631,YCCS - CHATHAM,YCCS-Chatham AcademyHS,HS,2,0,,9035 S LANGLEY AVE,Chicago,Illinois,60619
+8,400181,69228,ART IN MOTION,Art in Motion Charter School,HS,0,0,,7415 S EAST END,Chicago,IL,60649
+9,609800,22241,BENNETT,Frank I Bennett Elementary School,ES,34,22,13A,10115 S PRAIRIE AVE,Chicago,Illinois,60628
+9,609900,23061,CURTIS,George W Curtis Elementary School,ES,52,37,AUSL-S,32 E 115TH ST,Chicago,Illinois,60628
+9,609943,23351,OWENS,Jesse Owens Elementary Community Academy,ES,64,33,13B,12302 S STATE ST,Chicago,Illinois,60628
+9,610004,23891,CULLEN,Countee Cullen Elementary School,ES,23,14,13A,10650 S EBERHART AVE,Chicago,Illinois,60628
+9,610027,24081,KIPLING,Rudyard Kipling Elementary School,ES,34,25,11B,9351 S LOWE AVE,Chicago,Illinois,60620
+9,610091,24631,BROWN R,Ronald Brown Elementary Community Academy,ES,36,24,13A,12607 S UNION AVE,Chicago,Illinois,60628
+9,610139,25041,PULLMAN,George M Pullman Elementary School,ES,48,32,13B,11311 S FORRESTVILLE AVE,Chicago,Illinois,60628
+9,610208,25671,LAVIZZO,Mildred I Lavizzo Elementary School,ES,46,32,13A,138 W 109TH ST,Chicago,Illinois,60628
+9,610362,26591,EVERS,Medgar Evers Elementary School,ES,32,21,11B,9811 S LOWE AVE,Chicago,Illinois,60628
+9,610364,26601,DUBOIS,William E B Dubois Elementary School,ES,31,21,13B,330 E 133RD ST,Chicago,Illinois,60827
+9,609895,29041,TURNER-DREW,Turner-Drew Elementary Language Academy,ES,34,20,11B,9300 S PRINCETON AVE,Chicago,Illinois,60620
+9,610132,29261,POE,Edgar Allan Poe Elementary Classical School,ES,26,19,13B,10538 S LANGLEY AVE,Chicago,Illinois,60628
+9,609902,31061,METCALFE,Ralph H Metcalfe Elementary Community Academy,ES,48,26,13A,12339 S NORMAL AVE,Chicago,Illinois,60628
+9,609761,46391,CORLISS HS,George H Corliss High School,HS,62,32,017,821 E 103RD ST,Chicago,Illinois,60628
+9,609726,47051,BROOKS HS,Gwendolyn Brooks College Preparatory Academy HS,HS,106,65,017,250 E 111TH ST,Chicago,Illinois,60628
+9,609710,51021,HARLAN HS,John M Harlan Community Academy High School,HS,56,29,017,9652 S MICHIGAN AVE,Chicago,Illinois,60628
+9,400028,66161,CICS - PRAIRIE,CICS - Prairie,ES,0,0,,11530 S PRAIRIE AVE,Chicago,Illinois,60628
+9,400156,66576,NOBLE - BUTLER HS,Noble - Butler College Prep,HS,0,0,,821 E 103RD ST,Chicago,Illinois,60628
+9,400161,66671,CHICAGO COLLEGIATE,Chicago Collegiate Charter School,HS,0,0,,11816 S INDIANA,Chicago,Illinois,60628
+10,609772,22021,ADDAMS,Jane Addams Elementary School,ES,58,48,13B,10810 S AVENUE H,Chicago,Illinois,60617
+10,609811,22331,BRIGHT,Orville T Bright Elementary School,ES,49,23,13B,10740 S CALHOUN AVE,Chicago,Illinois,60617
+10,609845,22621,CARVER G,George Washington Carver Primary School,ES,56,38,13B,901 E 133RD PL,Chicago,Illinois,60827
+10,610586,22631,SADLOWSKI,Edward E. Sadlowski Elementary School,ES,87,51,13B,3930 E 105TH,Chicago,Illinois,60617
+10,609848,22641,ALDRIDGE,Ira F Aldridge Elementary School,ES,37,19,13B,630 E 131ST ST,Chicago,Illinois,60827
+10,609856,22731,CLAY,Henry Clay Elementary School,ES,67,45,13B,13231 S BURLEY AVE,Chicago,Illinois,60633
+10,609944,23361,GRISSOM,Virgil Grissom Elementary School,ES,37,25,13B,12810 S ESCANABA AVE,Chicago,Illinois,60633
+10,610054,24361,MARSH,John L Marsh Elementary School,ES,84,55,13B,9822 S EXCHANGE AVE,Chicago,Illinois,60617
+10,610171,25331,MIRELES,Arnold Mireles Elementary Academy,ES,56,37,12B,9000 S EXCHANGE AVE,Chicago,Illinois,60617
+10,610193,25541,NEW SULLIVAN,William K New Sullivan Elementary School,ES,78,39,12A,8331 S MACKINAW AVE,Chicago,Illinois,60617
+10,610198,25591,TAYLOR,Douglas Taylor Elementary School,ES,51,34,13B,9912 S AVENUE H,Chicago,Illinois,60617
+10,610200,25601,THORP J,James N Thorp Elementary School,ES,60,29,12B,8914 S BUFFALO AVE,Chicago,Illinois,60617
+10,610219,25771,WASHINGTON G ES,George Washington Elementary School,ES,63,54,13B,3611 E 114TH ST,Chicago,Illinois,60617
+10,609935,29091,GALLISTEL,Matthew Gallistel Elementary Language Academy,ES,72,55,13B,10347 S EWING AVE,Chicago,Illinois,60617
+10,609739,46331,WASHINGTON HS,George Washington High School,HS,171,122,017,3535 E 114TH ST,Chicago,Illinois,60617
+10,609760,46381,CARVER MILITARY HS,George Washington Carver Military Academy HS,HS,59,35,017,13100 S DOTY AVE,Chicago,Illinois,60827
+10,400092,66076,CICS - BOND,CICS - Lloyd Bond,ES,0,0,,13300 S LANGLEY AVE,Chicago,Illinois,60827
+10,400107,66563,LEARN - SOUTH CHICAGO,L.E.A.R.N. - South Chicago Campus,ES,0,0,,8914 S BUFFALO AVE,Chicago,Illinois,60617
+11,609777,22061,ARMOUR,Phillip D Armour Elementary School,ES,47,34,06B,950 W 33RD PL,Chicago,Illinois,60608
+11,609959,23481,HAINES,John Charles Haines Elementary School,ES,53,42,06B,247 W 23RD PL,Chicago,Illinois,60616
+11,609979,23651,HEALY,Robert Healy Elementary School,ES,104,86,06B,3010 S PARNELL AVE,Chicago,Illinois,60616
+11,609996,23821,HOLDEN,Charles N Holden Elementary School,ES,48,40,06B,1104 W 31ST ST,Chicago,Illinois,60608
+11,610062,24421,MCCLELLAN,George B McClellan Elementary School,ES,62,31,06B,3527 S WALLACE ST,Chicago,Illinois,60609
+11,610217,25751,WARD J,James Ward Elementary School,ES,52,42,06B,2701 S SHIELDS AVE,Chicago,Illinois,60616
+11,610319,26461,EVERGREEN,Evergreen Academy Middle School,MS,34,25,08B,3537 S PAULINA ST,Chicago,Illinois,60609
+11,610081,29201,SHERIDAN,Mark Sheridan Math & Science Academy,ES,56,39,06B,533 W 27TH ST,Chicago,Illinois,60616
+11,610513,45231,AIR FORCE HS,Air Force Academy High School,HS,36,24,016,3630 S WELLS ST,Chicago,Illinois,60609
+12,610170,20071,COLUMBIA EXPLORERS,Columbia Explorers Elementary Academy,ES,95,66,08A,4520 S KEDZIE AVE,Chicago,Illinois,60632
+12,609829,22481,BURROUGHS,John C Burroughs Elementary School,ES,47,37,08A,3542 S WASHTENAW AVE,Chicago,Illinois,60632
+12,609876,22891,DAVIS N,Nathan S Davis Elementary School,ES,85,56,08A,3014 W 39TH PL,Chicago,Illinois,60632
+12,609909,23141,EVERETT,Edward Everett Elementary School,ES,31,19,08B,3419 S BELL AVE,Chicago,Illinois,60608
+12,609952,23431,GREENE,Nathanael Greene Elementary School,ES,44,31,08B,3525 S HONORE ST,Chicago,Illinois,60609
+12,610174,25361,SHIELDS,James Shields Elementary School,ES,65,47,08B,4250 S ROCKWELL ST,Chicago,Illinois,60632
+12,610317,26451,BRIGHTON PARK,Brighton Park Elementary School,ES,47,35,08A,3825 S WASHTENAW AVE,Chicago,Illinois,60632
+12,610353,26821,CALMECA,Calmeca Academy of Fine Arts and Dual Language,ES,74,62,08A,3456 W 38TH ST,Chicago,Illinois,60632
+12,610504,26891,THOMAS,Velma F Thomas Early Childhood Center,ES,39,20,08B,3625 S HOYNE AVE,Chicago,Illinois,60609
+12,609958,29121,GUNSAULUS,Frank W Gunsaulus Elementary Scholastic Academy,ES,74,62,08A,4420 S SACRAMENTO AVE,Chicago,Illinois,60632
+12,609715,46181,KELLY HS,Thomas Kelly College Preparatory,HS,198,146,016,4136 S CALIFORNIA AVE,Chicago,Illinois,60632
+12,610563,46551,BACK OF THE YARDS HS,Back of the Yards IB HS,HS,109,90,08A,2111 W 47TH ST,Chicago,Illinois,60609
+12,400050,66271,NAMASTE,Namaste Charter School,ES,0,43,CTUA2,3737 S PAULINA ST,Chicago,Illinois,60609
+12,400089,66397,ACERO - MARQUEZ,Acero Charter Schools - Officer Donald J. Marquez,ES,0,46,CTUA1,2916 W 47TH ST,Chicago,Illinois,60632
+12,400101,66398,ACERO - CISNEROS,Acero Charter Schools - Sandra Cisneros,ES,0,37,CTUA1,2744 W PERSHING RD,Chicago,Illinois,60632
+12,400153,66602,ACERO - BRIGHTON PARK,Acero Charter Schools - Brighton Park,ES,0,45,CTUA1,4420 S FAIRFIELD AVE,Chicago,Illinois,60632
+13,609893,23001,DORE,John C Dore Elementary School,ES,93,57,10A,7134 W 65TH ST,Chicago,Illinois,60638
+13,610588,23381,RICHARDSON,Robert J. Richardson Middle School,MS,90,74,10A,6018 S KARLOV,Chicago,Illinois,60629
+13,609956,23461,GRIMES,Robert L Grimes Elementary School,ES,48,35,10A,5450 W 64TH PL,Chicago,Illinois,60638
+13,609960,23491,HALE,Nathan Hale Elementary School,ES,79,63,10A,6140 S MELVINA AVE,Chicago,Illinois,60638
+13,610589,23521,SOR JUANA,Sor Juana Ines de la Cruz ES,ES,42,26,08A,4120 W 57TH,Chicago,Illinois,60629
+13,610026,24071,KINZIE,John H Kinzie Elementary School,ES,91,63,10A,5625 S MOBILE AVE,Chicago,Illinois,60638
+13,610117,24851,PASTEUR,Louis Pasteur Elementary School,ES,70,48,08A,5825 S KOSTNER AVE,Chicago,Illinois,60629
+13,610291,26331,LEE,Richard Henry Lee Elementary School,ES,70,51,10B,6448 S TRIPP AVE,Chicago,Illinois,60629
+13,610087,30071,BLAIR,Blair Early Childhood Center,ES,70,28,10A,6751 W 63RD PL,Chicago,Illinois,60638
+13,609694,46021,HANCOCK HS,John Hancock College Preparatory High School,HS,98,74,015,5437 W 64TH PL,Chicago,Illinois,60638
+13,609718,46201,KENNEDY HS,John F Kennedy High School,HS,162,112,016,6325 W 56TH ST,Chicago,Illinois,60638
+14,610532,22441,HERNANDEZ,Irene C. Hernandez Middle School for the Advancement of Science,MS,85,71,08A,3510 W 55TH ST,Chicago,Illinois,60632
+14,609898,23041,EBERHART,John F Eberhart Elementary School,ES,113,90,10B,3400 W 65TH PL,Chicago,Illinois,60629
+14,609903,23081,EDWARDS,Richard Edwards Elementary School,ES,154,109,08A,4815 S KARLOV AVE,Chicago,Illinois,60632
+14,610096,24671,NIGHTINGALE,Florence Nightingale Elementary School,ES,106,82,08A,5250 S ROCKWELL ST,Chicago,Illinois,60632
+14,610157,25231,SAWYER,Sidney Sawyer Elementary School,ES,108,90,08A,5248 S SAWYER AVE,Chicago,Illinois,60632
+14,610203,25631,TONTI,Enrico Tonti Elementary School,ES,92,67,08B,5815 S HOMAN AVE,Chicago,Illinois,60629
+14,610226,26721,SANDOVAL,Socorro Sandoval Elementary School,ES,80,64,08A,5534 S SAINT LOUIS AVE,Chicago,Illinois,60629
+14,610249,26781,TALMAN,Talman Elementary School,ES,56,37,08B,5450 S TALMAN AVE,Chicago,Illinois,60632
+14,610543,46101,SOLORIO HS,Eric Solorio Academy High School,HS,141,106,AUSL-S,5400 S ST LOUIS AVE,Chicago,Illinois,60632
+14,609756,53101,CURIE HS,Marie Sklodowska Curie Metropolitan High School,HS,302,230,015,4959 S ARCHER AVE,Chicago,Illinois,60632
+14,400149,66137,ACERO - SOTO HS,Acero Charter Schools - Victoria Soto,HS,0,51,CTUA1,5025 S ST. LOUIS AVE,Chicago,Illinois,60632
+14,400084,66391,ACERO - TAMAYO,Acero Charter Schools - Rufino Tamayo,ES,0,23,CTUA1,5135 S CALIFORNIA AVE,Chicago,Illinois,60632
+14,400085,66394,ACERO - GARCIA HS,Acero Charter Schools - Major Hector P. Garcia MD,HS,0,61,CTUA1,4248 W 47TH ST,Chicago,Illinois,60632
+14,400079,66395,ACERO - ZIZUMBO,Acero Charter Schools - SPC Daniel Zizumbo,ES,0,39,CTUA1,4248 W 47TH ST,Chicago,Illinois,60632
+14,400080,66396,ACERO - TORRES,Acero Charter Schools - PFC Omar E. Torres,ES,0,41,CTUA1,4248 W 47TH ST,Chicago,Illinois,60632
+14,400112,66399,ACERO - IDAR,Acero Charter Schools - Jovita Idar,ES,0,37,CTUA1,5050 S HOMAN AVE,Chicago,Illinois,60632
+14,400179,66579,NOBLE - MANSUETO HS,Noble Mansueto High School,HS,0,0,,2911 W 47TH,Chicago,Illinois,60632
+14,400173,66801,PATHWAYS - BRIGHTON PARK HS,Pathways in Education- Brighton Park,HS,0,0,,3124 W 47TH ST,Chicago,Illinois,60632
+15,609842,22601,CARSON,Rachel Carson Elementary School,ES,98,74,08B,5516 S MAPLEWOOD AVE,Chicago,Illinois,60629
+15,609947,23391,GRAHAM ES,Alexander Graham Elementary School,ES,45,30,06B,4436 S UNION AVE,Chicago,Illinois,60609
+15,609983,23681,HEDGES,James Hedges Elementary School,ES,61,47,08B,4747 S WINCHESTER AVE,Chicago,Illinois,60609
+15,609986,23721,HENDERSON,Charles R Henderson Elementary School,ES,32,21,11A,5650 S WOLCOTT AVE,Chicago,Illinois,60636
+15,609993,23791,LARA,Agustin Lara Elementary Academy,ES,55,38,08B,4619 S WOLCOTT AVE,Chicago,Illinois,60609
+15,610053,24341,MARQUETTE,Marquette Elementary School,ES,121,82,AUSL-S,6550 S RICHMOND ST,Chicago,Illinois,60629
+15,610167,25301,SEWARD,William H Seward Communication Arts Academy ES,ES,58,45,08B,4600 S HERMITAGE AVE,Chicago,Illinois,60609
+15,610559,27091,SHIELDS MIDDLE,James Shields Middle School,MS,55,42,08B,2611 W 48TH ST,Chicago,Illinois,60632
+15,609855,30031,CHRISTOPHER,Walter S Christopher Elementary School,ES,120,40,08A,5042 S ARTESIAN AVE,Chicago,Illinois,60632
+15,609709,46141,GAGE PARK HS,Gage Park High School,HS,60,37,016,5630 S ROCKWELL ST,Chicago,Illinois,60629
+15,609735,53121,TILDEN HS,Edward Tilden Career Community Academy HS,HS,47,28,016,4747 S UNION AVE,Chicago,Illinois,60609
+15,400167,63181,HORIZON - SOUTHWEST,Horizon Science Academy Southwest Chicago Charter,ES,4,0,,5401 S WESTERN AVE,Chicago,Illinois,60609
+16,609791,22161,BASS,Perkins Bass Elementary School,ES,55,36,11C,1140 W 66TH ST,Chicago,Illinois,60621
+16,609793,22181,NICHOLSON,Lillian R. Nicholson STEM Academy,ES,60,40,11A,6006 S PEORIA ST,Chicago,Illinois,60621
+16,609869,22841,LANGFORD,Anna R. Langford Community Academy,ES,32,25,11A,6010 S THROOP ST,Chicago,Illinois,60636
+16,609885,22951,DEWEY,Dewey Elementary Academy of Fine Arts,ES,50,31,AUSL-S,5415 S UNION AVE,Chicago,Illinois,60609
+16,609897,23031,EARLE,Charles W Earle Elementary School,ES,47,26,11A,2040 W 62ND ST,Chicago,Illinois,60636
+16,609929,23281,FULTON,Robert Fulton Elementary School,ES,48,39,11A,5300 S HERMITAGE AVE,Chicago,Illinois,60609
+16,609997,23831,HOLMES,Oliver Wendell Holmes Elementary School,ES,24,16,11A,955 W GARFIELD BLVD,Chicago,Illinois,60621
+16,610019,23991,KERSHAW,Joshua D Kershaw Elementary School,ES,50,26,11C,6450 S LOWE AVE,Chicago,Illinois,60621
+16,610077,24571,MORRILL,Donald Morrill Math & Science Elementary School,ES,70,45,10A,6011 S ROCKWELL ST,Chicago,Illinois,60629
+16,610108,24801,OTOOLE,Luke O'Toole Elementary School,ES,41,25,11A,6550 S SEELEY AVE,Chicago,Illinois,60636
+16,610238,25941,BOND,Carrie Jacobs Bond Elementary School,ES,54,31,11C,7050 S MAY ST,Chicago,Illinois,60621
+16,610057,26701,FAIRFIELD,Fairfield Elementary Academy,ES,62,43,10A,6201 S FAIRFIELD AVE,Chicago,Illinois,60629
+16,610521,29391,DAVIS M,Sir Miles Davis Magnet Elementary Academy,ES,30,15,11C,6740 S PAULINA ST,Chicago,Illinois,60636
+16,610347,31301,CLAREMONT,Claremont Academy Elementary School,ES,77,38,10A,2300 W 64TH ST,Chicago,Illinois,60636
+16,610391,46511,LINDBLOM HS,Robert Lindblom Math & Science Academy HS,HS,148,108,016,6130 S WOLCOTT AVE,Chicago,Illinois,60636
+16,610570,65014,OMBUDSMAN - SOUTH HS,Ombudsman Chicago - South,HS,0,0,,6057 S WESTERN AVE,Chicago,Illinois,60636
+16,400024,66231,CICS - BASIL,CICS - Basil,ES,0,0,,1816 W GARFIELD BLVD,Chicago,Illinois,60609
+16,400115,66433,CATALYST - MARIA,Catalyst - Maria Charter School,ES,0,0,,6727 S CALIFORNIA AVE,Chicago,Illinois,60629
+16,400071,66471,PROVIDENCE ENGLEWOOD,Providence Englewood Charter School,ES,0,0,,6515 S ASHLAND AVE,Chicago,Illinois,60636
+16,400163,66931,KIPP - BLOOM,KIPP Chicago Charter School - KIPP Bloom,ES,6,0,,5515 S LOWE AVE,Chicago,Illinois,60621
+17,609790,22151,BARTON,Clara Barton Elementary School,ES,52,31,11C,7650 S WOLCOTT AVE,Chicago,Illinois,60620
+17,609805,22281,JOPLIN,Scott Joplin Elementary School,ES,43,24,11C,7931 S HONORE ST,Chicago,Illinois,60620
+17,609864,22801,COOK,John W Cook Elementary School,ES,43,26,11C,8150 S BISHOP ST,Chicago,Illinois,60620
+17,609955,23451,GRESHAM,Walter Q Gresham Elementary School,ES,51,36,AUSL-S,8524 S GREEN ST,Chicago,Illinois,60620
+17,610003,23881,CUFFE,Paul Cuffe Math-Science Technology Academy ES,ES,40,23,11C,8324 S RACINE AVE,Chicago,Illinois,60620
+17,610067,24451,MCKAY,Francis M McKay Elementary School,ES,80,49,10B,6901 S FAIRFIELD AVE,Chicago,Illinois,60629
+17,610102,24741,OGLESBY,Richard J Oglesby Elementary School,ES,44,35,11C,7646 S GREEN ST,Chicago,Illinois,60620
+17,610223,25811,WENTWORTH,Daniel S Wentworth Elementary School,ES,73,40,11C,1340 W 71ST ST,Chicago,Illinois,60636
+17,610339,26521,STAGG,Amos Alonzo Stagg Elementary School,ES,54,34,AUSL-S,7424 S MORGAN ST,Chicago,Illinois,60621
+17,610396,26791,TARKINGTON,Tarkington School of Excellence ES,ES,97,66,AUSL-S,3330 W 71ST ST,Chicago,Illinois,60629
+17,609941,29111,RANDOLPH,Asa Philip Randolph Elementary School,ES,44,33,11C,7316 S HOYNE AVE,Chicago,Illinois,60636
+17,609745,49031,SOUTHSIDE HS,Southside Occupational Academy High School,HS,130,50,11C,7342 S HOYNE AVE,Chicago,Illinois,60636
+17,610565,63142,EXCEL ENGLEWOOD HS,Excel Academy of Englewood,HS,0,0,,7141 S MORGAN,Chicago,Illinois,60621
+17,400176,63144,EXCEL SOUTHWEST HS,Excel Academy Southwest,HS,1,0,,7050 S WASHTENAW AVE,Chicago,Illinois,60629
+17,400032,66072,CICS - ELLISON HS,CICS - Ralph Ellison,HS,0,17,CTUA2,1817 W 80TH ST,Chicago,Illinois,60620
+17,400111,66564,LEARN - PERKINS,L.E.A.R.N. - Hunter Perkins Campus,ES,0,0,,1700 W 83RD ST,Chicago,Illinois,60620
+17,400116,66591,MONTESSORI ENGLEWOOD,The Montessori School of Englewood Charter,ES,2,0,,6936 S HERMITAGE AVE,Chicago,Illinois,60636
+17,400130,66614,YCCS - YOUTH DEVELOPMENT,YCCS-Community Youth Development Institute HS,HS,1,0,,7836 S UNION AVE,Chicago,Illinois,60620
+18,609839,22571,CARROLL,Carroll-Rosenwald Specialty Elementary School,ES,54,34,10B,2929 W 83RD ST,Chicago,Illinois,60652
+18,609879,22901,DAWES,Charles Gates Dawes Elementary School,ES,108,76,10B,3810 W 81ST PL,Chicago,Illinois,60652
+18,609927,23261,FOSTER PARK,Foster Park Elementary School,ES,58,27,11B,8530 S WOOD ST,Chicago,Illinois,60620
+18,610185,25471,STEVENSON,Adlai E Stevenson Elementary School,ES,131,96,10B,8010 S KOSTNER AVE,Chicago,Illinois,60652
+18,610352,26831,DURKIN PARK,Durkin Park Elementary School,ES,78,61,10B,8445 S KOLIN AVE,Chicago,Illinois,60652
+18,610109,29241,OWEN,William Bishop Owen Scholastic Academy ES,ES,33,20,10B,8247 S CHRISTIANA AVE,Chicago,Illinois,60652
+18,609807,32021,HAMPTON,Lionel Hampton Fine & Performing Arts ES,ES,62,38,10B,3434 W 77TH ST,Chicago,Illinois,60652
+18,610287,32081,ASHBURN,Ashburn Community Elementary School,ES,54,35,10B,8300 S ST LOUIS AVE,Chicago,Illinois,60652
+18,609698,46041,BOGAN HS,William J Bogan High School,HS,105,61,016,3939 W 79TH ST,Chicago,Illinois,60652
+18,610558,46611,GOODE HS,Sarah E. Goode STEM Academy,HS,108,77,016,7651 S HOMAN AVE,Chicago,Illinois,60652
+18,610557,65018,PATHWAYS - ASHBURN HS,Pathways in Education- Ashburn,HS,0,0,,3284 W 87TH ST,Chicago,Illinois,60652
+18,400031,66381,CICS - WRIGHTWOOD,CICS - Wrightwood,ES,0,60,CTUA2,8130 S CALIFORNIA AVE,Chicago,Illinois,60652
+19,609788,22131,BARNARD,Alice L Barnard Computer Math & Science Ctr ES,ES,35,25,10C,10354 S CHARLES ST,Chicago,Illinois,60643
+19,609849,22651,CASSELL,George F Cassell Elementary School,ES,50,32,10C,11314 S SPAULDING AVE,Chicago,Illinois,60655
+19,609861,22761,CLISSOLD,Henry R Clissold Elementary School,ES,68,45,10C,2350 W 110TH PL,Chicago,Illinois,60643
+19,609908,23131,ESMOND,Esmond Elementary School,ES,38,19,10C,1865 W MONTVALE AVE,Chicago,Illinois,60643
+19,610016,23971,KELLOGG,Kate S Kellogg Elementary School,ES,38,24,10C,9241 S LEAVITT ST,Chicago,Illinois,60643
+19,610082,24591,MOUNT GREENWOOD,Mount Greenwood Elementary School,ES,93,70,10C,10841 S HOMAN AVE,Chicago,Illinois,60655
+19,610195,25561,SUTHERLAND,Elizabeth H Sutherland Elementary School,ES,66,47,10C,10015 S LEAVITT ST,Chicago,Illinois,60643
+19,609871,26731,VICK,Barbara Vick Early Childhood & Family Center,ES,48,30,10C,2554 W 113TH ST,Chicago,Illinois,60655
+19,610084,29211,KELLER,Annie Keller Regional Gifted Center,ES,22,15,10C,3020 W 108TH ST,Chicago,Illinois,60655
+19,610207,29311,VANDERPOEL,John H Vanderpoel Elementary Magnet School,ES,34,19,10C,9510 S PROSPECT AVE,Chicago,Illinois,60643
+19,609725,46251,MORGAN PARK HS,Morgan Park High School,HS,130,82,016,1744 W PRYOR AVE,Chicago,Illinois,60643
+19,609753,47091,CHICAGO AGRICULTURE HS,Chicago High School for Agricultural Sciences,HS,119,62,10C,3857 W 111TH ST,Chicago,Illinois,60655
+20,609844,22611,CARTER,William W Carter Elementary School,ES,38,20,AUSL-S,5740 S MICHIGAN AVE,Chicago,Illinois,60637
+20,609919,23221,FISKE,John Fiske Elementary School,ES,55,36,09B,6020 S LANGLEY AVE,Chicago,Illinois,60637
+20,609964,23511,HAMLINE,John H Hamline Elementary School,ES,81,49,08B,4747 S BISHOP ST,Chicago,Illinois,60609
+20,609977,23631,WOODLAWN,Woodlawn Community Elementary School,ES,26,15,09B,6657 S KIMBARK AVE,Chicago,Illinois,60637
+20,610037,24171,LIBBY,Arthur A Libby Elementary School,ES,47,29,11A,5300 S LOOMIS BLVD,Chicago,Illinois,60609
+20,610065,24441,TILL,Emmett Louis Till Math and Science Academy,ES,47,28,09B,6543 S CHAMPLAIN AVE,Chicago,Illinois,60637
+20,610148,25151,CHAVEZ,Cesar E Chavez Multicultural Academic Center ES,ES,97,65,08B,4747 S MARSHFIELD AVE,Chicago,Illinois,60609
+20,610172,25341,SHERMAN,William T Sherman Elementary School,ES,44,28,AUSL-S,1000 W 52ND ST,Chicago,Illinois,60609
+20,610173,25351,SHERWOOD,Jesse Sherwood Elementary School,ES,44,27,11A,245 W 57TH ST,Chicago,Illinois,60621
+20,610213,25711,WADSWORTH,James Wadsworth Elementary School,ES,62,43,09B,6650 S ELLIS AVE,Chicago,Illinois,60637
+20,610239,25951,DALEY,Richard J Daley Elementary Academy,ES,57,41,08B,5024 S WOLCOTT AVE,Chicago,Illinois,60609
+20,610263,26141,DULLES,John Foster Dulles Elementary School,ES,80,50,AUSL-S,6311 S CALUMET AVE,Chicago,Illinois,60637
+20,609987,31121,HENDRICKS,Thomas A Hendricks Elementary Community Academy,ES,50,22,09A,4316 S PRINCETON AVE,Chicago,Illinois,60609
+20,610587,46681,DYETT ARTS HS,Walter Henri Dyett High School for the Arts,HS,70,49,09B,555 E 51ST,Chicago,Illinois,60615
+20,609682,53051,RICHARDS HS,Ellen H Richards Career Academy High School,HS,52,30,016,5009 S LAFLIN ST,Chicago,Illinois,60609
+20,400077,66112,U OF C - WOODLAWN HS,University of Chicago - Woodlawn,HS,5,0,,6300 S UNIVERSITY AVE,Chicago,Illinois,60637
+20,400106,66148,NOBLE - JOHNSON HS,Noble - John and Eunice Johnson College Prep,HS,0,0,,6350 S STEWART AVE,Chicago,Illinois,60621
+20,400029,66181,CICS - WASHINGTON PARK,CICS - Washington Park,ES,0,0,,110 E 61ST ST,Chicago,Illinois,60637
+20,400086,66441,URBAN PREP - ENGLEWOOD HS,Urban Prep Academy for Young Men - Englewood,HS,3,14,CTUA2,6201 S STEWART AVE,Chicago,Illinois,60621
+20,400129,66613,YCCS - PROGRESSIVE LEADERSHIP,YCCS-Progressive Leadership Academy,HS,0,0,,6620 S DR MARTIN LUTHER KING JR DR,Chicago,Illinois,60637
+20,610386,67021,PEACE AND EDUCATION HS,Peace & Education Coalition HS,HS,38,28,08B,4946 S PAULINA ST,Chicago,Illinois,60609
+21,609808,22301,HALEY,Alex Haley Elementary Academy,ES,60,40,13A,11411 S EGGLESTON AVE,Chicago,Illinois,60628
+21,610368,22451,HUGHES L,Langston Hughes Elementary School,ES,74,45,13A,240 W 104TH ST,Chicago,Illinois,60628
+21,609917,23201,FERNWOOD,Fernwood Elementary School,ES,33,15,13A,10041 S UNION AVE,Chicago,Illinois,60628
+21,609924,23241,FORT DEARBORN,Fort Dearborn Elementary School,ES,55,29,11B,9025 S THROOP ST,Chicago,Illinois,60620
+21,610032,24131,GREEN,Wendell E Green Elementary School,ES,56,25,11B,1150 W 96TH ST,Chicago,Illinois,60643
+21,610086,24601,MOUNT VERNON,Mount Vernon Elementary School,ES,36,20,13A,10540 S MORGAN ST,Chicago,Illinois,60643
+21,610128,24951,GARVEY,Marcus Moziah Garvey Elementary School,ES,38,22,13A,10309 S MORGAN ST,Chicago,Illinois,60643
+21,610153,25191,RYDER,William H Ryder Math & Science Specialty ES,ES,89,46,11B,8716 S WALLACE ST,Chicago,Illinois,60620
+21,610176,25381,SHOOP,John D Shoop Math-Science Technical Academy ES,ES,56,35,13A,11140 S BISHOP ST,Chicago,Illinois,60643
+21,610188,25491,DUNNE,Dunne Technology Academy,ES,30,21,13A,10845 S UNION AVE,Chicago,Illinois,60628
+21,610225,25831,WHISTLER,John Whistler Elementary School,ES,50,24,13A,11533 S ADA ST,Chicago,Illinois,60643
+21,610315,26431,WHITE,Edward White Elementary Career Academy,ES,25,14,13A,1136 W 122ND ST,Chicago,Illinois,60643
+21,610366,26621,WACKER,Charles H Wacker Elementary School,ES,38,20,11B,9746 S MORGAN ST,Chicago,Illinois,60643
+21,610369,26651,JACKSON M,Mahalia Jackson Elementary School,ES,50,30,11B,917 W 88TH ST,Chicago,Illinois,60620
+21,610199,26751,COLEMON,Johnnie Colemon Elementary Academy,ES,30,21,13A,1441 W 119TH ST,Chicago,Illinois,60643
+21,610295,31251,HIGGINS,Thomas J Higgins Elementary Community Academy,ES,38,21,13A,11710 S MORGAN ST,Chicago,Illinois,60643
+21,609705,46111,FENGER HS,Christian Fenger Academy High School,HS,52,25,017,11220 S WALLACE ST,Chicago,Illinois,60628
+21,609762,46401,JULIAN HS,Percy L Julian High School,HS,76,42,016,10330 S ELIZABETH ST,Chicago,Illinois,60643
+21,400147,63141,CHICAGO EXCEL HS,Chicago Excel Academy HS,HS,4,0,,1257 W 111TH ST,Chicago,Illinois,60643
+21,400061,66052,PERSPECTIVES - LEADERSHIP HS,Perspectives - Leadership Academy,HS,0,0,,8522 S LAFAYETTE AVE,Chicago,Illinois,60620
+21,400062,66053,PERSPECTIVES - TECH HS,Perspectives - High School of Technology,HS,0,0,,8522 S LAFAYETTE AVE,Chicago,Illinois,60620
+21,400033,66061,CICS - LONGWOOD,CICS - Longwood,HS,0,0,,1309 W 95TH ST,Chicago,Illinois,60643
+21,400026,66075,CICS - LOOMIS,CICS - Loomis Primary,ES,0,0,,9535 S LOOMIS ST,Chicago,Illinois,60643
+21,400117,66574,NOBLE - HANSBERRY HS,Noble - Hansberry College Prep,HS,0,0,,8748 S ABERDEEN ST,Chicago,Illinois,60620
+21,610593,69617,OMBUDSMAN - ROSELAND HS,Ombudsman Chicago - Roseland HS,HS,0,0,,10928 S HALSTED,Chicago,IL,60628
+22,609834,22521,LITTLE VILLAGE,Little Village Elementary School,ES,78,62,07A,2620 S LAWNDALE AVE,Chicago,Illinois,60623
+22,609870,22851,CORKERY,Daniel J Corkery Elementary School,ES,60,38,07A,2510 S KILDARE AVE,Chicago,Illinois,60623
+22,609938,23311,GARY,Joseph E Gary Elementary School,ES,94,69,07A,3740 W 31ST ST,Chicago,Illinois,60623
+22,609950,23411,ORTIZ DE DOMINGUEZ,Josefa Ortiz De Dominguez Elementary School,ES,66,40,07A,3000 S LAWNDALE AVE,Chicago,Illinois,60623
+22,609973,23611,ZAPATA,Emiliano Zapata Elementary Academy,ES,73,53,07A,2728 S KOSTNER AVE,Chicago,Illinois,60623
+22,609981,23671,HEARST,Phoebe Apperson Hearst Elementary School,ES,64,34,10A,4640 S LAMON AVE,Chicago,Illinois,60638
+22,610024,24051,CARDENAS,Lazaro Cardenas Elementary School,ES,104,76,07A,2345 S MILLARD AVE,Chicago,Illinois,60623
+22,610063,24431,MCCORMICK,Cyrus H McCormick Elementary School,ES,64,52,07A,2712 S SAWYER AVE,Chicago,Illinois,60623
+22,610227,25841,WHITNEY,Eli Whitney Elementary School,ES,79,56,07A,2815 S KOMENSKY AVE,Chicago,Illinois,60623
+22,610215,41041,MADERO,Francisco I Madero Middle School,MS,35,27,07A,3202 W 28TH ST,Chicago,Illinois,60623
+22,610392,52011,WORLD LANGUAGE HS,World Language Academy High School,HS,46,34,015,3120 S KOSTNER AVE,Chicago,Illinois,60623
+22,609704,53091,FARRAGUT HS,David G Farragut Career Academy High School,HS,96,58,016,2345 S CHRISTIANA AVE,Chicago,Illinois,60623
+22,610384,55151,INFINITY HS,Infinity Math Science and Technology High School,HS,47,35,07A,3120 S KOSTNER AVE,Chicago,Illinois,60623
+22,610383,55171,SOCIAL JUSTICE HS,Greater Lawndale High School For Social Justice,HS,50,32,015,3120 S KOSTNER AVE,Chicago,Illinois,60623
+22,610385,55181,MULTICULTURAL ARTS HIGH SCHOOL,Multicultural Arts High School,HS,34,26,015,3120 S KOSTNER AVE,Chicago,Illinois,60623
+22,400009,63011,GLOBAL CITIZENSHIP,Academy for Global Citizenship Charter School,ES,6,0,,4647 W 47TH ST,Chicago,Illinois,60632
+23,609832,22501,BYRNE,Michael M Byrne Elementary School,ES,77,46,10A,5329 S OAK PARK AVE,Chicago,Illinois,60638
+23,610544,22921,AZUELA,Mariano Azuela Elementary School,ES,69,56,10B,4707 W MARQUETTE RD,Chicago,Illinois,60629
+23,610006,23911,HURLEY,Edward N Hurley Elementary School,ES,79,60,10B,3849 W 69TH PL,Chicago,Illinois,60629
+23,610120,24871,PECK,Ferdinand Peck Elementary School,ES,104,73,08A,3826 W 58TH ST,Chicago,Illinois,60629
+23,610206,25661,TWAIN,Mark Twain Elementary School,ES,89,74,10A,5134 S LOTUS AVE,Chicago,Illinois,60638
+23,609741,46341,HUBBARD HS,Gurdon S Hubbard High School,HS,177,130,016,6200 S HAMLIN AVE,Chicago,Illinois,60629
+24,609921,23231,TELPOCHCALLI,Telpochcalli Elementary School,ES,38,28,07B,2832 W 24TH BLVD,Chicago,Illinois,60623
+24,609954,23441,GREGORY,John Milton Gregory Elementary School,ES,46,31,05B,3715 W POLK ST,Chicago,Illinois,60624
+24,609991,23771,HERZL,Theodore Herzl Elementary School,ES,81,48,AUSL-W,3711 W DOUGLAS BLVD,Chicago,Illinois,60623
+24,610005,23901,HUGHES C,Charles Evans Hughes Elementary School,ES,32,18,05B,4247 W 15TH ST,Chicago,Illinois,60623
+24,610056,24381,MASON,Roswell B Mason Elementary School,ES,40,24,05B,4217 W 18TH ST,Chicago,Illinois,60623
+24,610123,24911,PENN,William Penn Elementary School,ES,39,25,05B,1616 S AVERS AVE,Chicago,Illinois,60623
+24,610184,25451,SPRY ES,John Spry Elementary Community School,ES,52,38,07A,2400 S MARSHALL BLVD,Chicago,Illinois,60623
+24,610221,25791,WEBSTER,Daniel Webster Elementary School,ES,43,26,05B,4055 W ARTHINGTON ST,Chicago,Illinois,60624
+24,610254,26051,DVORAK,Dvorak Technology Academy,ES,45,37,AUSL-W,3615 W 16TH ST,Chicago,Illinois,60623
+24,610274,26231,JOHNSON,James Weldon Johnson Elementary School,ES,40,30,AUSL-W,1420 S ALBANY AVE,Chicago,Illinois,60623
+24,609920,29071,KANOON,Gerald Delgado Kanoon Elementary Magnet School,ES,52,39,07A,2233 S KEDZIE AVE,Chicago,Illinois,60623
+24,610017,29151,SAUCEDO,Maria Saucedo Elementary Scholastic Academy,ES,112,84,07B,2850 W 24TH BLVD,Chicago,Illinois,60623
+24,610503,29411,FRAZIER PROSPECTIVE,Frazier Prospective IB Magnet ES,ES,28,20,05B,4027 W GRENSHAW ST,Chicago,Illinois,60624
+24,609873,31041,CROWN,Crown Community Academy of Fine Arts Center ES,ES,28,15,05B,2128 S SAINT LOUIS AVE,Chicago,Illinois,60623
+24,610034,31161,LAWNDALE,Lawndale Elementary Community Academy,ES,37,21,05B,3500 W DOUGLAS BLVD,Chicago,Illinois,60623
+24,610194,31221,SUMNER,Charles Sumner  Math & Science Community Acad ES,ES,38,22,05B,4320 W 5TH AVE,Chicago,Illinois,60624
+24,610357,46461,SPRY HS,Spry Community Links High School,HS,34,24,016,2400 S MARSHALL BLVD,Chicago,Illinois,60623
+24,609748,49041,YORK HS,Consuella B York Alternative HS,HS,60,49,016,2700 S CALIFORNIA AVE,Chicago,Illinois,60608
+24,610499,49131,COLLINS HS,Collins Academy High School,HS,52,26,AUSL-W,1313 S SACRAMENTO DR,Chicago,Illinois,60623
+24,400058,66091,NLCP - CHRISTIANA HS,North Lawndale College Prep - Christiana,HS,4,0,,1615 S CHRISTIANA AVE,Chicago,Illinois,60623
+24,400059,66092,NLCP - COLLINS HS,North Lawndale College Prep - Collins,HS,0,0,,1313 S SACRAMENTO DR,Chicago,Illinois,60623
+24,400046,66211,LEARN - BUTLER,L.E.A.R.N. - Romano Butler Campus,ES,0,0,,1132 S HOMAN AVE,Chicago,Illinois,60624
+24,400044,66261,KIPP - ASCEND,KIPP Ascend Charter School,ES,3,0,,1616 S AVERS AVE,Chicago,Illinois,60623
+24,400118,66575,NOBLE - DRW HS,Noble - DRW College Prep,HS,0,0,,931 S HOMAN AVE,Chicago,Illinois,60624
+24,400128,66612,YCCS - CCA ACADEMY,YCCS-CCA Academy HS,HS,0,0,,1231 S PULASKI RD,Chicago,Illinois,60623
+24,400049,67071,LEGACY,Legacy Charter School,ES,0,0,,3318 W OGDEN AVE,Chicago,Illinois,60623
+25,609867,22831,COOPER,Peter Cooper Elementary Dual Language Academy,ES,63,43,07B,1624 W 19TH ST,Chicago,Illinois,60608
+25,609872,22861,PEREZ,Manuel Perez Elementary School,ES,41,27,07B,1241 W 19TH ST,Chicago,Illinois,60608
+25,609966,23531,HAMMOND,Charles G Hammond Elementary School,ES,44,32,07B,2819 W 21ST PL,Chicago,Illinois,60623
+25,609967,23541,FINKL,William F Finkl Elementary School,ES,54,28,07B,2332 S WESTERN AVE,Chicago,Illinois,60608
+25,610015,23961,JUNGMAN,Joseph Jungman Elementary School,ES,59,31,07B,1746 S MILLER ST,Chicago,Illinois,60608
+25,610125,24931,RUIZ,Irma C Ruiz Elementary School,ES,68,41,07B,2410 S LEAVITT ST,Chicago,Illinois,60608
+25,610129,24961,PICKARD,Josiah Pickard Elementary School,ES,50,32,07B,2301 W 21ST PL,Chicago,Illinois,60608
+25,610216,25731,WALSH,John A Walsh Elementary School,ES,52,32,07B,2015 S PEORIA ST,Chicago,Illinois,60608
+25,610228,25861,WHITTIER,John Greenleaf Whittier Elementary School,ES,32,22,07B,1900 W 23RD ST,Chicago,Illinois,60608
+25,610013,31141,PILSEN,Pilsen Elementary Community Academy,ES,45,28,07B,1420 W 17TH ST,Chicago,Illinois,60608
+25,610329,31281,OROZCO,Orozco Fine Arts & Sciences Elementary School,ES,44,31,07B,1940 W 18TH ST,Chicago,Illinois,60608
+25,609764,46421,JUAREZ HS,Benito Juarez Community Academy High School,HS,172,141,07B,1450 W CERMAK RD,Chicago,Illinois,60608
+25,400104,63131,INSTITUTO - HEALTH,Instituto Health Sciences Career Academy,HS,6,66,CTUA2,2520 S WESTERN AVE,Chicago,Illinois,60608
+25,400083,66131,ACERO - PAZ,Acero Charter Schools - Octavio Paz Campus,ES,0,20,CTUA1,2651 W 23RD ST,Chicago,Illinois,60608
+25,400081,66392,ACERO - DE LAS CASAS,Acero Charter Schools - Bartolom├⌐ de las Casas,ES,0,26,CTUA1,1641 W 16TH ST,Chicago,Illinois,60608
+25,400134,66618,YCCS - ADDAMS,YCCS-Jane Addams Alternative HS,HS,0,0,,1814 S UNION AVE,Chicago,Illinois,60616
+25,400135,66619,YCCS - LATINO YOUTH,YCCS-Latino Youth Alternative HS,HS,0,11,CTUA2,2001 S CALIFORNIA AVE,Chicago,Illinois,60608
+25,400164,66921,INSTITUTO - JUSTICE HS,Instituto - Justice and Leadership,HS,2,10,CTUA2,2570 S BLUE ISLAND AVE,Chicago,Illinois,60608
+26,609930,23291,FUNSTON,Frederick Funston Elementary School,ES,76,43,04A,2010 N CENTRAL PARK AVE,Chicago,Illinois,60647
+26,609968,23551,MCAULIFFE,Sharon Christa McAuliffe Elementary School,ES,67,52,04A,1841 N SPRINGFIELD AVE,Chicago,Illinois,60647
+26,610021,24011,CASALS,Pablo Casals Elementary School,ES,46,36,AUSL-W,3501 W POTOMAC AVE,Chicago,Illinois,60651
+26,610040,24221,LLOYD,Henry D Lloyd Elementary School,ES,88,69,03A,2103 N LAMON AVE,Chicago,Illinois,60639
+26,610044,24251,LOWELL,James Russell Lowell Elementary School,ES,66,30,05A,3320 W HIRSCH ST,Chicago,Illinois,60651
+26,610076,24551,MOOS,Bernhard Moos Elementary School,ES,63,46,05A,1711 N CALIFORNIA AVE,Chicago,Illinois,60647
+26,610192,25521,STOWE,Harriet Beecher Stowe Elementary School,ES,74,56,05A,3444 W WABANSIA AVE,Chicago,Illinois,60647
+26,610234,25911,YATES,Richard Yates Elementary School,ES,70,46,05A,1839 N RICHMOND ST,Chicago,Illinois,60647
+26,609780,41111,MARINE LEADERSHIP AT AMES HS,Marine Leadership Academy at Ames,HS,91,61,04A,1920 N HAMLIN AVE,Chicago,Illinois,60647
+26,609691,46431,NORTH-GRAND HS,North-Grand High School,HS,129,91,015,4338 W WABANSIA AVE,Chicago,Illinois,60639
+26,400022,63051,CHIARTS HS,Chicago High School for the Arts (ChiArts),HS,6,38,CTUA2,2714 W AUGUSTA BLVD,Chicago,Illinois,60622
+26,400126,66109,YCCS - ASSOCIATION HOUSE,YCCS-Association House HS,HS,0,0,,"1116 N KEDZIE, 4TH FLOOR AVE",Chicago,Illinois,60651
+26,400054,66142,NOBLE - PRITZKER HS,Noble - Pritzker College Prep,HS,0,0,,4131 W CORTLAND ST,Chicago,Illinois,60639
+26,400039,66331,ERIE,Erie Elementary Charter School,ES,2,0,,1405 N WASHTENAW AVE,Chicago,Illinois,60622
+26,400131,66615,YCCS - CAMPOS,YCCS-Dr. Pedro Albizu Campos Puerto Rican HS,HS,0,0,,2739 W DIVISION ST,Chicago,Illinois,60622
+26,610594,69618,PATHWAYS - HUMBOLDT PARK HS,Pathways in Education - Humboldt Park HS,HS,0,0,,2421 W DIVISION,Chicago,IL,60622
+27,609797,22211,BEIDLER,Jacob Beidler Elementary School,ES,42,33,05A,3151 W WALNUT ST,Chicago,Illinois,60612
+27,609812,22351,BROWN W,William H Brown Elementary School,ES,48,27,06A,54 N HERMITAGE AVE,Chicago,Illinois,60612
+27,610534,22591,SKINNER NORTH,Skinner North,ES,42,37,04B,640 W SCOTT ST,Chicago,Illinois,60610
+27,610048,24311,MANIERRE,George Manierre Elementary School,ES,46,32,04B,1420 N HUDSON AVE,Chicago,Illinois,60610
+27,610529,24731,OGDEN HS,Ogden International High School,HS,173,137,015,1250 W ERIE ST,Chicago,Illinois,60642
+27,610133,24991,WARD L,Laura S Ward Elementary School,ES,54,35,05A,646 N LAWNDALE AVE,Chicago,Illinois,60624
+27,610251,26021,CATHER,Willa Cather Elementary School,ES,63,34,05A,2908 W WASHINGTON BLVD,Chicago,Illinois,60612
+27,610252,26031,DETT,Robert Nathaniel Dett Elementary School,ES,65,35,06A,2131 W MONROE ST,Chicago,Illinois,60612
+27,610257,26091,MORTON,Morton School of Excellence,ES,40,27,AUSL-W,431 N TROY ST,Chicago,Illinois,60612
+27,610405,26881,SUDER,Suder Montessori Magnet ES,ES,68,42,06A,2022 W WASHINGTON BLVD,Chicago,Illinois,60612
+27,610177,29281,SKINNER,Mark Skinner Elementary School,ES,98,79,06B,1260 W ADAMS ST,Chicago,Illinois,60607
+27,609783,30011,JEFFERSON HS,Nancy B Jefferson Alternative HS,HS,60,44,016,1100 S HAMILTON AVE,Chicago,Illinois,60612
+27,610250,30101,SALAZAR,Ruben Salazar Elementary Bilingual Center,ES,40,26,06A,160 W WENDELL ST,Chicago,Illinois,60610
+27,610308,30121,RUDOLPH,Wilma Rudolph Elementary Learning Center,ES,48,19,06A,1628 W WASHINGTON BLVD,Chicago,Illinois,60612
+27,610561,46641,CRANE MEDICAL HS,Richard T Crane Medical Preparatory HS,HS,52,41,015,2245 W JACKSON BLVD,Chicago,Illinois,60612
+27,609755,47101,YOUNG HS,Whitney M Young Magnet High School,HS,194,147,06B,211 S LAFLIN ST,Chicago,Illinois,60607
+27,610304,55011,PHOENIX MILITARY HS,Phoenix Military Academy High School,HS,59,36,06A,145 S CAMPBELL AVE,Chicago,Illinois,60612
+27,400043,63031,HOPE LEARNING ACADEMY,Hope Institute Learning Academy,ES,5,0,,1628 W WASHINGTON,Chicago,Illinois,60612
+27,400056,66144,NOBLE - ROWE CLARK HS,Noble - Rowe-Clark Math and Science Academy,HS,0,0,,3645 W CHICAGO AVE,Chicago,Illinois,60651
+27,400053,66145,NOBLE - GOLDER HS,Noble - Golder College Prep,HS,0,0,,1454 W SUPERIOR ST,Chicago,Illinois,60642
+27,400048,66561,LEARN - EXCEL,L.E.A.R.N. - Excel Campus,ES,0,0,,3021 W CARROLL AVE,Chicago,Illinois,60612
+27,400047,66562,LEARN - CAMPBELL,L.E.A.R.N. - Charles and Dorothy Campbell Campus,ES,0,0,,212 S FRANCISCO AVE,Chicago,Illinois,60612
+27,400151,66566,LEARN - 7,L.E.A.R.N. Charter School - 7th Campus,ES,0,0,,3021 W CARROLL AVE,Chicago,Illinois,60612
+27,400165,66567,LEARN - MIDDLE,L.E.A.R.N. - Middle School Campus,ES,0,0,,3021 W CARROLL AVE,Chicago,Illinois,60612
+27,400097,66572,NOBLE - BULLS HS,Noble - Chicago Bulls College Prep,HS,0,0,,2040 W ADAMS ST,Chicago,Illinois,60612
+27,400170,66578,NOBLE - ACADEMY HS,Noble - The Noble Academy,HS,0,0,,1443 N OGDEN AVE,Chicago,Illinois,60610
+27,400143,66627,YCCS - WEST TOWN,YCCS-West Town Acad Alternative HS,HS,1,0,,500 N SACRAMENTO BLVD,Chicago,Illinois,60612
+27,400069,67081,POLARIS,Polaris Charter Academy,ES,0,0,,620 N SAWYER AVE,Chicago,Illinois,60624
+27,609680,70020,PAYTON HS,Walter Payton College Preparatory High School,HS,118,90,06A,1034 N WELLS ST,Chicago,Illinois,60610
+28,400091,63091,CHICAGO TECH HS,Chicago Technology Academy High School,HS,3,0,,1301 W 14TH ST,Chicago,Illinois,60608
+28,609851,22671,CHALMERS,Thomas Chalmers Specialty Elementary School,ES,41,31,AUSL-W,2745 W ROOSEVELT RD,Chicago,Illinois,60608
+28,610548,22711,STEM,STEM Magnet Academy,ES,42,32,06B,1522 W FILLMORE ST,Chicago,Illinois,60607
+28,609925,23251,KELLMAN,Joseph Kellman Corporate Community ES,ES,36,23,05B,3030 W ARTHINGTON ST,Chicago,Illinois,60612
+28,609985,23711,HEFFERAN,Helen M Hefferan Elementary School,ES,41,28,05B,4409 W WILCOX ST,Chicago,Illinois,60624
+28,610055,24371,FARADAY,Michael Faraday Elementary School,ES,38,24,05A,3250 W MONROE ST,Chicago,Illinois,60624
+28,610121,24881,IRVING,Washington Irving Elementary School,ES,49,28,06B,749 S OAKLEY BLVD,Chicago,Illinois,60612
+28,610131,24981,PLAMONDON,Ambrose Plamondon Elementary School,ES,26,18,05B,2642 W 15TH PL,Chicago,Illinois,60608
+28,610180,25411,SMYTH,John M Smyth Elementary School,ES,61,38,06B,1059 W 13TH ST,Chicago,Illinois,60608
+28,610183,25441,SPENCER,Spencer Technology Academy,ES,59,43,03B,214 N LAVERGNE AVE,Chicago,Illinois,60644
+28,610202,25621,TILTON,George W Tilton Elementary School,ES,39,28,05B,223 N KEELER AVE,Chicago,Illinois,60624
+28,610293,26351,MELODY,Genevieve Melody Elementary School,ES,52,35,05B,3937 W WILCOX ST,Chicago,Illinois,60624
+28,610597,26931,VIRTUAL ACADEMY HS,The Virtual Academy High School,HS,100,55,0,1326 W 14TH,Chicago,Illinois,60608
+28,610596,26931,VIRTUAL ACADEMY ES,The Virtual Academy Elementary School,ES,100,55,0,1326 W 14TH,Chicago,Illinois,60608
+28,609907,29051,ERICSON,Leif Ericson Elementary Scholastic Academy,ES,49,38,05B,3600 W 5TH AVE,Chicago,Illinois,60624
+28,610271,29341,JENSEN,Jensen Elementary Scholastic Academy,ES,42,31,05B,3030 W HARRISON ST,Chicago,Illinois,60612
+28,610334,46471,RABY HS,Al Raby High School,HS,54,37,015,3545 W FULTON BLVD,Chicago,Illinois,60624
+28,609723,47041,MARSHALL HS,John Marshall Metropolitan High School,HS,42,28,015,3250 W ADAMS ST,Chicago,Illinois,60624
+28,609750,49051,SIMPSON HS,Simpson Academy HS for Young Women,HS,22,14,015,1321 S PAULINA ST,Chicago,Illinois,60608
+28,609693,53071,WESTINGHOUSE HS,George Westinghouse College Prep,HS,130,95,015,3223 W FRANKLIN BLVD,Chicago,Illinois,60624
+28,609722,53111,MANLEY HS,Manley Career Academy High School,HS,34,18,015,2935 W POLK ST,Chicago,Illinois,60612
+28,610571,65015,OMBUDSMAN - WEST HS,Ombudsman Chicago- West,HS,0,0,,2401 W CONGRESS PKWY,Chicago,Illinois,60612
+28,400123,66106,YCCS - SCHOLASTIC ACHIEVEMENT,YCCS- Academy of Scholastic Achievement HS,HS,0,0,,4651 W MADISON ST,Chicago,Illinois,60644
+28,400057,66147,NOBLE - UIC HS,Noble - UIC College Prep,HS,0,0,,1231 S DAMEN AVE,Chicago,Illinois,60608
+28,400011,66151,LOCKE A,Alain Locke Charter School,ES,3,0,,3141 W JACKSON BLVD,Chicago,Illinois,60612
+28,400119,66641,LEGAL PREP HS,Legal Prep Charter Academy,HS,0,0,,4319 W WASHINGTON BLVD,Chicago,Illinois,60624
+29,609795,22191,CLARK ES,George Rogers Clark Elementary School,ES,30,21,03B,1045 S MONITOR AVE,Chicago,Illinois,60644
+29,609818,22401,BURBANK,Luther Burbank Elementary School,ES,98,68,03A,2035 N MOBILE AVE,Chicago,Illinois,60639
+29,609830,22491,BRUNSON,Milton Brunson Math & Science Specialty ES,ES,56,31,03B,932 N CENTRAL AVE,Chicago,Illinois,60651
+29,609904,23101,ELLINGTON,Edward K Ellington Elementary School,ES,65,41,03B,243 N PARKSIDE AVE,Chicago,Illinois,60644
+29,610043,24241,LOVETT,Joseph Lovett Elementary School,ES,41,27,03B,6333 W BLOOMINGDALE AVE,Chicago,Illinois,60639
+29,610235,25921,YOUNG ES,Ella Flagg Young Elementary School,ES,60,47,03B,1434 N PARKSIDE AVE,Chicago,Illinois,60651
+29,610305,26391,LELAND,George Leland Elementary School,ES,59,35,03B,512 S LAVERGNE AVE,Chicago,Illinois,60644
+29,610367,26631,DEPRIEST,Oscar DePriest Elementary School,ES,73,48,03B,139 S PARKSIDE AVE,Chicago,Illinois,60644
+29,610158,29271,SAYRE,Harriet E Sayre Elementary Language Academy,ES,66,43,03B,1850 N NEWLAND AVE,Chicago,Illinois,60707
+29,610244,41051,CLARK HS,Michele Clark Academic Prep Magnet High School,HS,82,50,015,5101 W HARRISON ST,Chicago,Illinois,60644
+29,610245,41061,DOUGLASS HS,Frederick A Douglass Academy High School,HS,24,11,015,543 N WALLER AVE,Chicago,Illinois,60644
+29,400068,63021,PLATO,Plato Learning Academy,ES,3,0,,5545 W HARRISON ST,Chicago,Illinois,60644
+29,400120,66133,ACERO - CLEMENTE,Acero Charter Schools - Roberto Clemente,ES,0,39,CTUA1,2050 N NATCHEZ AVE,Chicago,Illinois,60707
+29,400021,66432,CATALYST - CIRCLE ROCK,Catalyst Elementary Charter School - Circle Rock,ES,0,0,,5608 W WASHINGTON BLVD,Chicago,Illinois,60644
+30,610541,22341,LORCA,Federico Garcia Lorca Elementary School,ES,73,58,04C,3231 N SPRINGFIELD AVE,Chicago,Illinois,60618
+30,610539,22691,CAMRAS,Marvin Camras Elementary School,ES,88,73,03A,3000 N MANGO AVE,Chicago,Illinois,60634
+30,609949,23401,GRAY,William P Gray Elementary School,ES,96,80,01B,3730 N LARAMIE AVE,Chicago,Illinois,60641
+30,610046,24281,LYON,Mary Lyon Elementary School,ES,98,85,03A,2941 N MCVICKER AVE,Chicago,Illinois,60634
+30,610144,25101,REILLY,Frank W Reilly Elementary School,ES,72,57,04C,3650 W SCHOOL ST,Chicago,Illinois,60618
+30,610145,25111,REINBERG,Peter A Reinberg Elementary School,ES,100,73,01B,3425 N MAJOR AVE,Chicago,Illinois,60634
+30,610159,25241,SCAMMON,Jonathan Y Scammon Elementary School,ES,64,48,01B,4201 W HENDERSON ST,Chicago,Illinois,60641
+30,610515,26921,DISNEY II ES,Disney II Magnet School,ES,126,93,014,3815 N KEDVALE AVE,Chicago,Illinois,60641
+30,610248,45211,CHICAGO ACADEMY ES,Chicago Academy Elementary School,ES,62,46,AUSL-W,3400 N AUSTIN AVE,Chicago,Illinois,60634
+30,609729,46281,SCHURZ HS,Carl Schurz High School,HS,176,119,014,3601 N MILWAUKEE AVE,Chicago,Illinois,60641
+30,609732,46291,STEINMETZ HS,Charles P Steinmetz College Preparatory HS,HS,128,92,014,3030 N MOBILE AVE,Chicago,Illinois,60634
+30,610340,46481,CHICAGO ACADEMY HS,Chicago Academy High School,HS,60,51,AUSL-W,3400 N AUSTIN AVE,Chicago,Illinois,60634
+30,400162,66691,INTRINSIC HS,Intrinsic Charter School,HS,6,0,,4540 W BELMONT AVE,Chicago,Illinois,60641
+31,609789,22141,BARRY,John Barry Elementary School,ES,56,44,04A,2828 N KILBOURN AVE,Chicago,Illinois,60641
+31,609910,23151,FALCONER,Laughlin Falconer Elementary School,ES,102,80,03A,3020 N LAMON AVE,Chicago,Illinois,60641
+31,610165,25291,SCHUBERT,Franz Peter Schubert Elementary School,ES,64,51,03A,2727 N LONG AVE,Chicago,Illinois,60639
+31,609708,46131,FOREMAN HS,Edwin G. Foreman College and Career Academy,HS,90,56,014,3235 N LECLAIRE AVE,Chicago,Illinois,60641
+31,609716,46191,KELVYN PARK HS,Kelvyn Park High School,HS,77,50,014,4343 W WRIGHTWOOD AVE,Chicago,Illinois,60639
+31,400125,66108,YCCS - ASPIRA PANTOJA,"YCCS-ASPIRA,Antonia Pantoja Alternative HS",HS,0,13,CTUA2,3121 N PULASKI RD,Chicago,Illinois,60641
+31,400013,66254,ASPIRA - EARLY COLLEGE HS,ASPIRA Charter School - Early College High School,HS,2,28,CTUA2,3986 W BARRY AVE,Chicago,Illinois,60618
+32,609782,22091,AUDUBON,John J Audubon Elementary School,ES,68,43,04A,3500 N HOYNE AVE,Chicago,Illinois,60618
+32,609820,22421,BURLEY,Augustus H Burley Elementary School,ES,46,41,04C,1630 W BARRY AVE,Chicago,Illinois,60657
+32,609828,22471,BURR,Jonathan Burr Elementary School,ES,42,33,06A,1621 W WABANSIA AVE,Chicago,Illinois,60622
+32,609896,23021,DRUMMOND,Thomas Drummond Elementary School,ES,44,31,06A,1845 W CORTLAND ST,Chicago,Illinois,60622
+32,610010,23921,JAHN,Friedrich L. Jahn Elementary of the Fine Arts,ES,51,36,04C,3149 N WOLCOTT AVE,Chicago,Illinois,60657
+32,610136,25021,PRESCOTT,William H Prescott Elementary School,ES,50,36,04C,1632 W WRIGHTWOOD AVE,Chicago,Illinois,60614
+32,610138,31211,PULASKI,Pulaski International School of Chicago,ES,83,63,06A,2230 W MCLEAN AVE,Chicago,Illinois,60647
+32,400025,66071,CICS - BUCKTOWN,CICS - Bucktown,ES,0,0,,2235 N HAMILTON AVE,Chicago,Illinois,60647
+32,610524,70241,ALCOTT HS,Louisa May Alcott College Preparatory HS,HS,50,34,015,2957 N HOYNE AVE,Chicago,Illinois,60618
+33,609792,22171,BATEMAN,Newton Bateman Elementary School,ES,97,68,01C,4220 N RICHMOND ST,Chicago,Illinois,60618
+33,609857,22741,CLEVELAND,Grover Cleveland Elementary School,ES,72,54,01C,3121 W BYRON ST,Chicago,Illinois,60618
+33,609972,23591,HAUGAN,Helge A Haugan Elementary School,ES,104,79,01C,4540 N HAMLIN AVE,Chicago,Illinois,60625
+33,609988,23731,HENRY,Patrick Henry Elementary School,ES,60,45,01C,4250 N SAINT LOUIS AVE,Chicago,Illinois,60618
+33,609994,23801,HIBBARD,William G Hibbard Elementary School,ES,83,75,01C,3244 W AINSLIE ST,Chicago,Illinois,60625
+33,610039,24201,VON LINNE,Carl von Linne Elementary School,ES,63,50,04C,3221 N SACRAMENTO AVE,Chicago,Illinois,60618
+33,610354,26841,NORTH RIVER,North River Elementary School,ES,36,24,01C,4416 N TROY ST,Chicago,Illinois,60625
+33,609794,29011,EDISON,Thomas A Edison Regional Gifted Center ES,ES,23,17,01C,4929 N SAWYER AVE,Chicago,Illinois,60625
+33,610212,32011,ALBANY PARK,Albany Park Multicultural Academy,MS,26,21,01C,4929 N SAWYER AVE,Chicago,Illinois,60625
+33,609728,46271,ROOSEVELT HS,Theodore Roosevelt High School,HS,120,88,014,3436 W WILSON AVE,Chicago,Illinois,60625
+33,610568,65016,PATHWAYS - AVONDALE HS,Pathways in Education- Avondale,HS,0,0,,3100 W BELMONT AVE,Chicago,Illinois,60618
+33,400027,66074,CICS - IRVING PARK,CICS - Irving Park,ES,0,0,,3820 N SPAULDING AVE,Chicago,Illinois,60618
+33,400017,66351,ASPIRA - HAUGAN,ASPIRA Charter School - Haugan Middle School,MS,5,13,CTUA2,3729 W LELAND AVE,Chicago,Illinois,60625
+34,610009,29141,GALILEO,Galileo Math & Science Scholastic Academy ES,ES,58,41,06B,820 S CARPENTER ST,Chicago,Illinois,60607
+34,610060,29171,Chicago World Language Academy,Chicago World Language Academy,ES,44,37,06B,1340 W HARRISON ST,Chicago,Illinois,60607
+34,400098,66573,NOBLE - MUCHIN HS,Noble - Muchin College Prep,HS,0,0,,1 N STATE ST,Chicago,Illinois,60602
+34,400133,66617,YCCS - INNOVATIONS,YCCS- Innovations HS of Arts Integration,HS,2,0,,17 N STATE ST,Chicago,Illinois,60602
+35,609875,22881,DARWIN,Charles R Darwin Elementary School,ES,68,44,04A,3116 W BELDEN AVE,Chicago,Illinois,60647
+35,610074,24531,MONROE,James Monroe Elementary School,ES,81,61,04A,3651 W SCHUBERT AVE,Chicago,Illinois,60647
+35,610088,24611,MOZART,Wolfgang A Mozart Elementary School,ES,72,47,04A,2200 N HAMLIN AVE,Chicago,Illinois,60647
+35,610089,24621,MURPHY,John B Murphy Elementary School,ES,63,46,01C,3539 W GRACE ST,Chicago,Illinois,60618
+35,610097,24681,NIXON,William P Nixon Elementary School,ES,65,54,04A,2121 N KEELER AVE,Chicago,Illinois,60639
+35,610325,41091,AVONDALE-LOGANDALE,Avondale-Logandale Elementary School,ES,64,49,04C,3212 W GEORGE ST,Chicago,Illinois,60618
+35,400172,66255,ASPIRA - BUSINESS & FINANCE HS,ASPIRA Business and Finance,HS,3,49,CTUA2,2989 N MILWAUKEE AVE,Chicago,Illinois,60618
+35,400082,66393,ACERO - FUENTES,Acero Charter Schools - Carlos Fuentes,ES,0,38,CTUA1,2845 W BARRY AVE,Chicago,Illinois,60618
+36,609835,22531,CAMERON,Daniel R Cameron Elementary School,ES,76,58,05A,1234 N MONTICELLO AVE,Chicago,Illinois,60651
+36,610533,22581,PRIETO,Dr Jorge Prieto Math and Science,ES,90,70,03A,2231 N CENTRAL AVE,Chicago,Illinois,60639
+36,609854,22721,CHOPIN,Frederic Chopin Elementary School,ES,60,33,05A,2450 W RICE ST,Chicago,Illinois,60622
+36,610041,24231,LOCKE J,Josephine C Locke Elementary School,ES,121,90,03A,2828 N OAK PARK AVE,Chicago,Illinois,60634
+36,610068,24461,HANSON PARK,Hanson Park Elementary School,ES,170,109,03A,5411 W FULLERTON AVE,Chicago,Illinois,60639
+36,610073,24511,MITCHELL,Ellen Mitchell Elementary School,ES,42,32,05A,2233 W OHIO ST,Chicago,Illinois,60612
+36,610098,24691,NOBEL,Alfred Nobel Elementary School,ES,70,53,05A,4127 W HIRSCH ST,Chicago,Illinois,60651
+36,610100,24721,WEST PARK,West Park Elementary Academy,ES,62,42,05A,1425 N TRIPP AVE,Chicago,Illinois,60651
+36,610197,25581,TALCOTT,Mancel Talcott Elementary School,ES,63,44,06A,1840 W OHIO ST,Chicago,Illinois,60622
+36,609922,26771,BELMONT-CRAGIN,Belmont-Cragin Elementary School,ES,65,45,03A,5252 W PALMER ST,Chicago,Illinois,60639
+36,610051,41121,NORTHWEST,Northwest Middle School,MS,60,37,03A,5252 W PALMER ST,Chicago,Illinois,60639
+36,609679,53041,PROSSER HS,Charles Allen Prosser Career Academy High School,HS,129,105,015,2148 N LONG AVE,Chicago,Illinois,60639
+36,400030,66221,CICS - WEST BELDEN,CICS - West Belden,ES,0,0,,2245 N MCVICKER AVE,Chicago,Illinois,60639
+36,400114,66601,ACERO - SANTIAGO,Acero Charter Schools - Esmeralda Santiago,ES,0,24,CTUA1,2510 W CORTEZ ST,Chicago,Illinois,60622
+36,400159,66661,CHRISTOPHER HOUSE,Christopher House Charter School,ES,0,0,,5235 W BELDEN AVE,Chicago,Illinois,60639
+37,400146,66031,KIPP - ACADEMY,KIPP Academy Chicago Campus,ES,4,0,,4818 W OHIO ST,Chicago,Illinois,60644
+37,610000,23851,HOWE,Julia Ward Howe Elementary School of Excellence,ES,52,32,AUSL-W,720 N LOREL AVE,Chicago,Illinois,60644
+37,610036,24151,LEWIS,Leslie Lewis Elementary School,ES,52,41,AUSL-W,1431 N LEAMINGTON AVE,Chicago,Illinois,60651
+37,610092,24641,NASH,Henry H Nash Elementary School,ES,40,27,03B,4837 W ERIE ST,Chicago,Illinois,60644
+37,610106,24781,PICCOLO,Brian Piccolo Elementary Specialty School,ES,73,51,AUSL-W,1040 N KEELER AVE,Chicago,Illinois,60651
+37,610282,26301,MCNAIR,Ronald E McNair Elementary School,ES,77,38,AUSL-W,4820 W WALTON ST,Chicago,Illinois,60651
+37,610389,28151,ORR HS,Orr Academy High School,HS,48,24,AUSL-W,730 N PULASKI RD,Chicago,Illinois,60624
+37,609975,31111,HAY,John Hay Elementary Community Academy,ES,43,28,03B,1018 N LARAMIE AVE,Chicago,Illinois,60651
+37,610518,46621,AUSTIN CCA HS,Austin College and Career Academy High School,HS,38,26,015,231 N PINE AVE,Chicago,Illinois,60644
+37,400180,66032,KIPP - ONE,KIPP One Academy,ES,0,0,,730 N PULASKI,Chicago,Illinois,60624
+37,400169,66149,NOBLE - ITW SPEER HS,Noble - ITW David Speer Academy,HS,0,0,,5321 W GRAND AVE,Chicago,Illinois,60639
+37,400127,66611,YCCS - AUSTIN CAREER,YCCS-Austin Career Education Center HS,HS,0,0,,5352 W CHICAGO AVE,Chicago,Illinois,60651
+37,400144,66628,YCCS - WEST,YCCS-West HS,HS,0,0,,4909 W DIVISION ST,Chicago,Illinois,60651
+37,400178,66911,MOVING EVEREST,Moving Everest Charter School,ES,0,0,,416 N LARAMIE AVE,Chicago,Illinois,60644
+38,609810,22321,BRIDGE,Norman A Bridge Elementary School,ES,92,75,01A,3800 N NEW ENGLAND AVE,Chicago,Illinois,60634
+38,609836,22541,CANTY,Arthur E Canty Elementary School,ES,85,67,01A,3740 N PANAMA AVE,Chicago,Illinois,60634
+38,609884,22941,DEVER,William E Dever Elementary School,ES,78,57,01A,3436 N OSCEOLA AVE,Chicago,Illinois,60634
+38,610135,25011,PORTAGE PARK,Portage Park Elementary School,ES,99,62,01B,5330 W BERTEAU AVE,Chicago,Illinois,60641
+38,610179,25401,SMYSER,Washington D Smyser Elementary School,ES,79,58,01A,4310 N MELVINA AVE,Chicago,Illinois,60634
+38,610201,29301,THORP O,Ole A Thorp Elementary Scholastic Academy,ES,92,60,01A,6024 W WARWICK AVE,Chicago,Illinois,60634
+38,610390,45221,RICKOVER MILITARY HS,Hyman G Rickover Naval Academy High School,HS,55,33,02A,5700 W BERTEAU AVE,Chicago,Illinois,60634
+39,609798,22221,BELDING,Hiram H Belding Elementary School,ES,56,43,01B,4257 N TRIPP AVE,Chicago,Illinois,60641
+39,610111,24821,PALMER,John Palmer Elementary School,ES,82,54,01B,5051 N KENNETH AVE,Chicago,Illinois,60630
+39,610127,24941,PETERSON,Mary Gage Peterson Elementary School,ES,89,70,01C,5510 N CHRISTIANA AVE,Chicago,Illinois,60625
+39,610155,25211,SAUGANASH,Sauganash Elementary School,ES,53,42,01B,6040 N KILPATRICK AVE,Chicago,Illinois,60646
+39,610182,25431,SOLOMON,Hannah G Solomon Elementary School,ES,53,35,01C,6206 N HAMLIN AVE,Chicago,Illinois,60659
+39,610209,25681,VOLTA,Alessandro Volta Elementary School,ES,86,59,01C,4950 N AVERS AVE,Chicago,Illinois,60625
+39,609749,46061,NORTHSIDE PREP HS,Northside College Preparatory High School,HS,106,77,01C,5501 N KEDZIE AVE,Chicago,Illinois,60625
+39,609737,47081,VON STEUBEN HS,Friedrich W von Steuben Metropolitan Science HS,HS,148,122,014,5039 N KIMBALL AVE,Chicago,Illinois,60625
+39,609744,49021,NORTHSIDE LEARNING HS,Northside Learning Center High School,HS,128,51,014,3730 W BRYN MAWR AVE,Chicago,Illinois,60659
+39,400034,66241,CICS - NORTHTOWN HS,CICS - Northtown,HS,0,90,CTUA2,3900 W PETERSON AVE,Chicago,Illinois,60659
+40,609817,22391,BUDLONG,Lyman A Budlong Elementary School,ES,82,58,02B,2701 W FOSTER AVE,Chicago,Illinois,60625
+40,609852,22681,CHAPPELL,Eliza Chappell Elementary School,ES,70,42,02B,2135 W FOSTER AVE,Chicago,Illinois,60625
+40,609695,46031,AMUNDSEN HS,Roald Amundsen High School,HS,151,114,02B,5110 N DAMEN AVE,Chicago,Illinois,60625
+40,609724,46241,MATHER HS,Stephen T Mather High School,HS,166,132,014,5835 N LINCOLN AVE,Chicago,Illinois,60659
+40,400060,66191,AHS - PASSAGES,Asian Human Services - Passages Charter School,ES,0,48,CTUA2,1643 W BRYN MAWR AVE,Chicago,Illinois,60660
+41,609874,22871,DIRKSEN,Everett McKinley Dirksen Elementary School,ES,97,69,01A,8601 W FOSTER AVE,Chicago,Illinois,60656
+41,609899,23051,EBINGER,Christian Ebinger Elementary School,ES,78,58,01A,7350 W PRATT AVE,Chicago,Illinois,60631
+41,609937,23301,GARVY,John W Garvy Elementary School,ES,60,54,01A,5225 N OAK PARK AVE,Chicago,Illinois,60656
+41,610099,24711,NORWOOD PARK,Norwood Park Elementary School,ES,40,30,01A,5900 N NINA AVE,Chicago,Illinois,60631
+41,610104,24761,ONAHAN,William J Onahan Elementary School,ES,62,47,01A,6634 W RAVEN ST,Chicago,Illinois,60631
+41,610105,24771,ORIOLE PARK,Oriole Park Elementary School,ES,60,48,01A,5424 N OKETO AVE,Chicago,Illinois,60656
+41,610523,28081,EDISON PARK,Edison Park Elementary School,ES,64,41,01A,6220 N OLCOTT AVE,Chicago,Illinois,60631
+41,610083,30051,BEARD,Daniel C Beard Elementary School,ES,106,55,01A,6445 W STRONG ST,Chicago,Illinois,60656
+41,610163,30081,STOCK,Frederick Stock Elementary School,ES,45,30,01A,7507 W BIRCHWOOD AVE,Chicago,Illinois,60631
+41,609734,46311,TAFT HS,William Howard Taft High School,HS,367,284,014,6530 W BRYN MAWR AVE,Chicago,Illinois,60631
+41,610569,65013,OMBUDSMAN - NORTHWEST HS,Ombudsman Chicago- Northwest,HS,0,0,,7500 N HARLEM AVE,Chicago,Illinois,60631
+43,609774,22041,ALCOTT ES,Louisa May Alcott College Preparatory ES,ES,75,61,04B,2625 N ORCHARD ST,Chicago,Illinois,60614
+43,610038,24191,LINCOLN,Abraham Lincoln Elementary School,ES,64,56,04B,615 W KEMPER PL,Chicago,Illinois,60614
+43,610059,24401,MAYER,Oscar Mayer Magnet School,ES,72,62,04B,2250 N CLIFTON AVE,Chicago,Illinois,60614
+43,610033,29161,LASALLE,LaSalle Elementary Language Academy,ES,55,44,04B,1734 N ORLEANS ST,Chicago,Illinois,60614
+43,610095,29231,NEWBERRY,Walter L Newberry Math & Science Academy ES,ES,54,36,04B,700 W WILLOW ST,Chicago,Illinois,60614
+43,609738,46321,LINCOLN PARK HS,Lincoln Park High School,HS,194,153,04B,2001 N ORCHARD ST,Chicago,Illinois,60614
+44,609773,22031,TUBMAN,Harriet Tubman Elementary School,ES,54,43,04C,2851 N SEMINARY AVE,Chicago,Illinois,60657
+44,610094,24661,NETTELHORST,Louis Nettelhorst Elementary School,ES,72,57,04B,3252 N BROADWAY ST,Chicago,Illinois,60657
+44,609974,29131,HAWTHORNE,Hawthorne Elementary Scholastic Academy,ES,56,43,04B,3319 N CLIFTON AVE,Chicago,Illinois,60657
+44,610078,29191,INTER-AMERICAN,Inter-American Elementary Magnet School,ES,72,51,04B,851 W WAVELAND AVE,Chicago,Illinois,60613
+45,609796,22201,BEAUBIEN,Jean Baptiste Beaubien Elementary School,ES,95,64,01B,5025 N LARAMIE AVE,Chicago,Illinois,60630
+45,609901,23071,EDGEBROOK,Edgebrook Elementary School,ES,46,31,01B,6525 N HIAWATHA AVE,Chicago,Illinois,60646
+45,609912,23161,FARNSWORTH,James B Farnsworth Elementary School,ES,78,47,01B,5414 N LINDER AVE,Chicago,Illinois,60630
+45,609995,23811,HITCH,Rufus M Hitch Elementary School,ES,54,40,01B,5625 N MCVICKER AVE,Chicago,Illinois,60646
+45,610137,25031,PRUSSING,Ernst Prussing Elementary School,ES,63,50,01B,4650 N MENARD AVE,Chicago,Illinois,60630
+45,610230,25881,WILDWOOD,Wildwood IB World Magnet School,ES,58,37,01A,6950 N HIAWATHA AVE,Chicago,Illinois,60646
+45,610564,26921,DISNEY II HS,Disney II Magnet High School,HS,126,93,014,3900 N LAWNDALE AVE,Chicago,Illinois,60618
+45,609766,49081,VAUGHN HS,Jacqueline B Vaughn Occupational High School,HS,94,40,014,4355 N LINDER AVE,Chicago,Illinois,60641
+46,609803,22261,BLAINE,James G Blaine Elementary School,ES,76,55,04C,1420 W GRACE ST,Chicago,Illinois,60613
+46,609850,22661,GREELEY,Horace Greeley Elementary School,ES,52,41,04B,832 W SHERIDAN RD,Chicago,Illinois,60613
+46,610242,25991,BRENNEMANN,Joseph Brennemann Elementary School,ES,70,41,02B,4251 N CLARENDON AVE,Chicago,Illinois,60613
+46,610269,26201,MCCUTCHEON,John T McCutcheon Elementary School,ES,70,39,02B,4865 N SHERIDAN RD,Chicago,Illinois,60640
+46,610394,26861,UPLIFT HS,Uplift Community High School,HS,48,30,014,900 W WILSON AVE,Chicago,Illinois,60640
+46,610363,29401,DISNEY,Walt Disney Magnet Elementary School,ES,137,112,02B,4140 N MARINE DR,Chicago,Illinois,60613
+46,610355,30141,COURTENAY,Mary E Courtenay Elementary Language Arts Center,ES,68,38,02B,4420 N BEACON ST,Chicago,Illinois,60640
+46,400141,66625,YCCS - TRUMAN,YCCS-Truman Middle College HS,HS,0,0,,1145 W WILSON AVE,Chicago,Illinois,60640
+47,609799,22231,BELL,Alexander Graham Bell Elementary School,ES,92,72,04A,3730 N OAKLEY AVE,Chicago,Illinois,60618
+47,609866,22821,COONLEY,John C Coonley Elementary School,ES,88,63,02B,4046 N LEAVITT ST,Chicago,Illinois,60618
+47,609963,23501,HAMILTON,Alexander Hamilton Elementary School,ES,51,40,04C,1650 W CORNELIA AVE,Chicago,Illinois,60657
+47,610070,24471,MCPHERSON,James B McPherson Elementary School,ES,109,61,02B,4728 N WOLCOTT AVE,Chicago,Illinois,60640
+47,610141,25061,RAVENSWOOD,Ravenswood Elementary School,ES,54,45,02B,4332 N PAULINA ST,Chicago,Illinois,60613
+47,610220,25781,WATERS,Thomas J Waters Elementary School,ES,58,41,02B,4540 N CAMPBELL AVE,Chicago,Illinois,60625
+47,609719,46211,LAKE VIEW HS,Lake View High School,HS,166,125,014,4015 N ASHLAND AVE,Chicago,Illinois,60613
+47,609720,46221,LANE TECH HS,Albert G Lane Technical High School,HS,350,279,014,2501 W ADDISON ST,Chicago,Illinois,60618
+47,610402,46521,DEVRY HS,DeVry University Advantage Academy HS,HS,14,13,04A,1900 W LAWRENCE AVE,Chicago,Illinois,60640
+48,609945,23371,GOUDY,William C. Goudy Technology Academy,ES,68,53,02B,5120 N WINTHROP AVE,Chicago,Illinois,60640
+48,609976,23621,HAYT,Stephen K Hayt Elementary School,ES,91,70,02A,1518 W GRANVILLE AVE,Chicago,Illinois,60660
+48,610122,24891,PEIRCE,Helen Peirce International Studies ES,ES,109,88,02B,1423 W BRYN MAWR AVE,Chicago,Illinois,60660
+48,610196,25571,SWIFT,George B Swift Elementary Specialty School,ES,75,51,02A,5900 N WINTHROP AVE,Chicago,Illinois,60660
+48,609730,47061,SENN HS,Nicholas Senn High School,HS,164,121,014,5900 N GLENWOOD AVE,Chicago,Illinois,60660
+49,610284,22071,NEW FIELD,New Field Elementary School,ES,76,52,02A,1707 W MORSE AVE,Chicago,Illinois,60626
+49,609865,22811,JORDAN,Jordan Elementary Community School,ES,63,42,02A,7414 N WOLCOTT AVE,Chicago,Illinois,60626
+49,609918,23211,FIELD,Eugene Field Elementary School,ES,21,14,02A,7019 N ASHLAND AVE,Chicago,Illinois,60626
+49,610022,24021,KILMER,Joyce Kilmer Elementary School,ES,104,66,02A,6700 N GREENVIEW AVE,Chicago,Illinois,60626
+49,609933,31081,GALE,Stephen F Gale Elementary Community Academy,ES,56,28,02A,1631 W JONQUIL TER,Chicago,Illinois,60626
+49,609733,46301,SULLIVAN HS,Roger C Sullivan High School,HS,90,59,014,6631 N BOSWORTH AVE,Chicago,Illinois,60626
+49,400121,66134,ACERO - DE LA CRUZ,Acero Charter Schools - Sor Juana In├⌐s de la Cruz,ES,0,62,CTUA1,7416 N RIDGE AVE,Chicago,Illinois,60645
+49,400035,66281,CHICAGO MATH & SCIENCE HS,Chicago Math and Science Academy Charter School,HS,2,0,,7212 N CLARK ST,Chicago,Illinois,60626
+50,609779,22081,ARMSTRONG G,George Armstrong International Studies ES,ES,118,93,02A,2110 W GREENLEAF AVE,Chicago,Illinois,60645
+50,609804,22271,BOONE,Daniel Boone Elementary School,ES,86,65,02A,6710 N WASHTENAW AVE,Chicago,Illinois,60645
+50,610542,22381,WEST RIDGE,West Ridge Elementary School,ES,84,54,02A,6700 N WHIPPLE ST,Chicago,Illinois,60645
+50,609859,22751,CLINTON,DeWitt Clinton Elementary School,ES,95,81,02A,6110 N FAIRFIELD AVE,Chicago,Illinois,60659
+50,610011,23931,JAMIESON,Minnie Mars Jamieson Elementary School,ES,84,70,02B,5650 N MOZART ST,Chicago,Illinois,60659
+50,610147,25141,ROGERS,Philip Rogers Elementary School,ES,86,64,02A,7345 N WASHTENAW AVE,Chicago,Illinois,60645
+50,609880,29031,DECATUR,Stephen Decatur Classical Elementary School,ES,33,22,02A,7030 N SACRAMENTO AVE,Chicago,Illinois,60645
+50,610191,29291,STONE,Stone Elementary Scholastic Academy,ES,56,50,02A,6239 N LEAVITT ST,Chicago,Illinois,60659

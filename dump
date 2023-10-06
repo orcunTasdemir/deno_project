@@ -1,0 +1,1954 @@
+[
+  {
+    "schools,20071": {
+      "deptID": 20071,
+      "shortName": "COLUMBIA EXPLORERS",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22031": {
+      "deptID": 22031,
+      "shortName": "TUBMAN",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22071": {
+      "deptID": 22071,
+      "shortName": "NEW FIELD",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22151": {
+      "deptID": 22151,
+      "shortName": "BARTON",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22161": {
+      "deptID": 22161,
+      "shortName": "BASS",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22181": {
+      "deptID": 22181,
+      "shortName": "NICHOLSON",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22201": {
+      "deptID": 22201,
+      "shortName": "BEAUBIEN",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22221": {
+      "deptID": 22221,
+      "shortName": "BELDING",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22251": {
+      "deptID": 22251,
+      "shortName": "SOUTH SHORE ES",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22281": {
+      "deptID": 22281,
+      "shortName": "JOPLIN",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22341": {
+      "deptID": 22341,
+      "shortName": "LORCA",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22381": {
+      "deptID": 22381,
+      "shortName": "WEST RIDGE",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22391": {
+      "deptID": 22391,
+      "shortName": "BUDLONG",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22421": {
+      "deptID": 22421,
+      "shortName": "BURLEY",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22451": {
+      "deptID": 22451,
+      "shortName": "HUGHES L",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22521": {
+      "deptID": 22521,
+      "shortName": "LITTLE VILLAGE",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22571": {
+      "deptID": 22571,
+      "shortName": "CARROLL",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22591": {
+      "deptID": 22591,
+      "shortName": "SKINNER NORTH",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22611": {
+      "deptID": 22611,
+      "shortName": "CARTER",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22701": {
+      "deptID": 22701,
+      "shortName": "CHASE",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22741": {
+      "deptID": 22741,
+      "shortName": "CLEVELAND",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22751": {
+      "deptID": 22751,
+      "shortName": "CLINTON",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22761": {
+      "deptID": 22761,
+      "shortName": "CLISSOLD",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22791": {
+      "deptID": 22791,
+      "shortName": "COLUMBUS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": ""
+    }
+  },
+  {
+    "schools,22831": {
+      "deptID": 22831,
+      "shortName": "COOPER",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,22871": {
+      "deptID": 22871,
+      "shortName": "DIRKSEN",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23021": {
+      "deptID": 23021,
+      "shortName": "DRUMMOND",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23031": {
+      "deptID": 23031,
+      "shortName": "EARLE",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23071": {
+      "deptID": 23071,
+      "shortName": "EDGEBROOK",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23201": {
+      "deptID": 23201,
+      "shortName": "FERNWOOD",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23211": {
+      "deptID": 23211,
+      "shortName": "FIELD",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23241": {
+      "deptID": 23241,
+      "shortName": "FORT DEARBORN",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23271": {
+      "deptID": 23271,
+      "shortName": "FULLER",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23361": {
+      "deptID": 23361,
+      "shortName": "GRISSOM",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23421": {
+      "deptID": 23421,
+      "shortName": "ARIEL",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23431": {
+      "deptID": 23431,
+      "shortName": "GREENE",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23521": {
+      "deptID": 23521,
+      "shortName": "SOR JUANA",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23551": {
+      "deptID": 23551,
+      "shortName": "MCAULIFFE",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23591": {
+      "deptID": 23591,
+      "shortName": "HAUGAN",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23631": {
+      "deptID": 23631,
+      "shortName": "WOODLAWN",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23641": {
+      "deptID": 23641,
+      "shortName": "SMITH",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23671": {
+      "deptID": 23671,
+      "shortName": "HEARST",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23811": {
+      "deptID": 23811,
+      "shortName": "HITCH",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23851": {
+      "deptID": 23851,
+      "shortName": "HOWE",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23891": {
+      "deptID": 23891,
+      "shortName": "CULLEN",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23931": {
+      "deptID": 23931,
+      "shortName": "JAMIESON",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,23971": {
+      "deptID": 23971,
+      "shortName": "KELLOGG",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24011": {
+      "deptID": 24011,
+      "shortName": "CASALS",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24021": {
+      "deptID": 24021,
+      "shortName": "KILMER",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24051": {
+      "deptID": 24051,
+      "shortName": "CARDENAS",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24151": {
+      "deptID": 24151,
+      "shortName": "LEWIS",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24201": {
+      "deptID": 24201,
+      "shortName": "VON LINNE",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24221": {
+      "deptID": 24221,
+      "shortName": "LLOYD",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24281": {
+      "deptID": 24281,
+      "shortName": "LYON",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24341": {
+      "deptID": 24341,
+      "shortName": "MARQUETTE",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24401": {
+      "deptID": 24401,
+      "shortName": "MAYER",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24431": {
+      "deptID": 24431,
+      "shortName": "MCCORMICK",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24441": {
+      "deptID": 24441,
+      "shortName": "TILL",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24461": {
+      "deptID": 24461,
+      "shortName": "HANSON PARK",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24511": {
+      "deptID": 24511,
+      "shortName": "MITCHELL",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24571": {
+      "deptID": 24571,
+      "shortName": "MORRILL",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24611": {
+      "deptID": 24611,
+      "shortName": "MOZART",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24671": {
+      "deptID": 24671,
+      "shortName": "NIGHTINGALE",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24711": {
+      "deptID": 24711,
+      "shortName": "NORWOOD PARK",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24731": {
+      "deptID": 24731,
+      "shortName": "OGDEN HS",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24771": {
+      "deptID": 24771,
+      "shortName": "ORIOLE PARK",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24781": {
+      "deptID": 24781,
+      "shortName": "PICCOLO",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24811": {
+      "deptID": 24811,
+      "shortName": "WELLS ES",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24841": {
+      "deptID": 24841,
+      "shortName": "PARK MANOR",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24871": {
+      "deptID": 24871,
+      "shortName": "PECK",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24881": {
+      "deptID": 24881,
+      "shortName": "IRVING",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,24991": {
+      "deptID": 24991,
+      "shortName": "WARD L",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25011": {
+      "deptID": 25011,
+      "shortName": "PORTAGE PARK",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25031": {
+      "deptID": 25031,
+      "shortName": "PRUSSING",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25061": {
+      "deptID": 25061,
+      "shortName": "RAVENSWOOD",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25121": {
+      "deptID": 25121,
+      "shortName": "REVERE",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25151": {
+      "deptID": 25151,
+      "shortName": "CHAVEZ",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25211": {
+      "deptID": 25211,
+      "shortName": "SAUGANASH",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25231": {
+      "deptID": 25231,
+      "shortName": "SAWYER",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25241": {
+      "deptID": 25241,
+      "shortName": "SCAMMON",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25291": {
+      "deptID": 25291,
+      "shortName": "SCHUBERT",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25371": {
+      "deptID": 25371,
+      "shortName": "SHOESMITH",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25431": {
+      "deptID": 25431,
+      "shortName": "SOLOMON",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25441": {
+      "deptID": 25441,
+      "shortName": "SPENCER",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25491": {
+      "deptID": 25491,
+      "shortName": "DUNNE",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25581": {
+      "deptID": 25581,
+      "shortName": "TALCOTT",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25591": {
+      "deptID": 25591,
+      "shortName": "TAYLOR",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25791": {
+      "deptID": 25791,
+      "shortName": "WEBSTER",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25911": {
+      "deptID": 25911,
+      "shortName": "YATES",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,25941": {
+      "deptID": 25941,
+      "shortName": "BOND",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26051": {
+      "deptID": 26051,
+      "shortName": "DVORAK",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26061": {
+      "deptID": 26061,
+      "shortName": "ROBINSON",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26091": {
+      "deptID": 26091,
+      "shortName": "MORTON",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26181": {
+      "deptID": 26181,
+      "shortName": "BRONZEVILLE CLASSICAL",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26231": {
+      "deptID": 26231,
+      "shortName": "JOHNSON",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26251": {
+      "deptID": 26251,
+      "shortName": "MOLLISON",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26291": {
+      "deptID": 26291,
+      "shortName": "POWELL",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26301": {
+      "deptID": 26301,
+      "shortName": "MCNAIR",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26321": {
+      "deptID": 26321,
+      "shortName": "MAYS",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26371": {
+      "deptID": 26371,
+      "shortName": "KING ES",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26431": {
+      "deptID": 26431,
+      "shortName": "WHITE",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26451": {
+      "deptID": 26451,
+      "shortName": "BRIGHTON PARK",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26461": {
+      "deptID": 26461,
+      "shortName": "EVERGREEN",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26521": {
+      "deptID": 26521,
+      "shortName": "STAGG",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26541": {
+      "deptID": 26541,
+      "shortName": "WOODSON",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26591": {
+      "deptID": 26591,
+      "shortName": "EVERS",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26701": {
+      "deptID": 26701,
+      "shortName": "FAIRFIELD",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26721": {
+      "deptID": 26721,
+      "shortName": "SANDOVAL",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26731": {
+      "deptID": 26731,
+      "shortName": "VICK",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26751": {
+      "deptID": 26751,
+      "shortName": "COLEMON",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26781": {
+      "deptID": 26781,
+      "shortName": "TALMAN",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26791": {
+      "deptID": 26791,
+      "shortName": "TARKINGTON",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26821": {
+      "deptID": 26821,
+      "shortName": "CALMECA",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26831": {
+      "deptID": 26831,
+      "shortName": "DURKIN PARK",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26841": {
+      "deptID": 26841,
+      "shortName": "NORTH RIVER",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26861": {
+      "deptID": 26861,
+      "shortName": "UPLIFT HS",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26881": {
+      "deptID": 26881,
+      "shortName": "SUDER",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26891": {
+      "deptID": 26891,
+      "shortName": "THOMAS",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,26921": {
+      "deptID": 26921,
+      "shortName": "DISNEY II ES",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,28151": {
+      "deptID": 28151,
+      "shortName": "ORR HS",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29021": {
+      "deptID": 29021,
+      "shortName": "BURNSIDE",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29041": {
+      "deptID": 29041,
+      "shortName": "TURNER-DREW",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29051": {
+      "deptID": 29051,
+      "shortName": "ERICSON",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29071": {
+      "deptID": 29071,
+      "shortName": "KANOON",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": ""
+    }
+  },
+  {
+    "schools,29081": {
+      "deptID": 29081,
+      "shortName": "FRANKLIN",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29091": {
+      "deptID": 29091,
+      "shortName": "GALLISTEL",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29101": {
+      "deptID": 29101,
+      "shortName": "LASALLE II",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29111": {
+      "deptID": 29111,
+      "shortName": "RANDOLPH",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29131": {
+      "deptID": 29131,
+      "shortName": "HAWTHORNE",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29141": {
+      "deptID": 29141,
+      "shortName": "GALILEO",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29171": {
+      "deptID": 29171,
+      "shortName": "ChicagoAcademy@ctulocal1.org",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29191": {
+      "deptID": 29191,
+      "shortName": "INTER-AMERICAN",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29211": {
+      "deptID": 29211,
+      "shortName": "KELLER",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29221": {
+      "deptID": 29221,
+      "shortName": "MURRAY",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29261": {
+      "deptID": 29261,
+      "shortName": "POE",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": ""
+    }
+  },
+  {
+    "schools,29291": {
+      "deptID": 29291,
+      "shortName": "STONE",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29341": {
+      "deptID": 29341,
+      "shortName": "JENSEN",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29361": {
+      "deptID": 29361,
+      "shortName": "LENART",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29371": {
+      "deptID": 29371,
+      "shortName": "SABIN",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,29391": {
+      "deptID": 29391,
+      "shortName": "DAVIS M",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,30011": {
+      "deptID": 30011,
+      "shortName": "JEFFERSON HS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,30031": {
+      "deptID": 30031,
+      "shortName": "CHRISTOPHER",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,30071": {
+      "deptID": 30071,
+      "shortName": "BLAIR",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,30101": {
+      "deptID": 30101,
+      "shortName": "SALAZAR",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,31041": {
+      "deptID": 31041,
+      "shortName": "CROWN",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,31061": {
+      "deptID": 31061,
+      "shortName": "METCALFE",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,31101": {
+      "deptID": 31101,
+      "shortName": "NINOS HEROES",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,31141": {
+      "deptID": 31141,
+      "shortName": "PILSEN",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,31201": {
+      "deptID": 31201,
+      "shortName": "PARKSIDE",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,31211": {
+      "deptID": 31211,
+      "shortName": "PULASKI",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,31301": {
+      "deptID": 31301,
+      "shortName": "CLAREMONT",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,32081": {
+      "deptID": 32081,
+      "shortName": "ASHBURN",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,41091": {
+      "deptID": 41091,
+      "shortName": "AVONDALE-LOGANDALE",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,41121": {
+      "deptID": 41121,
+      "shortName": "NORTHWEST",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,45211": {
+      "deptID": 45211,
+      "shortName": "CHICAGO ACADEMY ES",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,45231": {
+      "deptID": 45231,
+      "shortName": "AIR FORCE HS",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46061": {
+      "deptID": 46061,
+      "shortName": "NORTHSIDE PREP HS",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46101": {
+      "deptID": 46101,
+      "shortName": "SOLORIO HS",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46141": {
+      "deptID": 46141,
+      "shortName": "GAGE PARK HS",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46181": {
+      "deptID": 46181,
+      "shortName": "KELLY HS",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46191": {
+      "deptID": 46191,
+      "shortName": "KELVYN PARK HS",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46211": {
+      "deptID": 46211,
+      "shortName": "LAKE VIEW HS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46241": {
+      "deptID": 46241,
+      "shortName": "MATHER HS",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46251": {
+      "deptID": 46251,
+      "shortName": "MORGAN PARK HS",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46301": {
+      "deptID": 46301,
+      "shortName": "SULLIVAN HS",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46321": {
+      "deptID": 46321,
+      "shortName": "LINCOLN PARK HS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46361": {
+      "deptID": 46361,
+      "shortName": "KENWOOD HS",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46401": {
+      "deptID": 46401,
+      "shortName": "JULIAN HS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46431": {
+      "deptID": 46431,
+      "shortName": "NORTH-GRAND HS",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46461": {
+      "deptID": 46461,
+      "shortName": "SPRY HS",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46481": {
+      "deptID": 46481,
+      "shortName": "CHICAGO ACADEMY HS",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46491": {
+      "deptID": 46491,
+      "shortName": "BOWEN HS",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46521": {
+      "deptID": 46521,
+      "shortName": "DEVRY HS",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46611": {
+      "deptID": 46611,
+      "shortName": "GOODE HS",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": ""
+    }
+  },
+  {
+    "schools,46621": {
+      "deptID": 46621,
+      "shortName": "AUSTIN CCA HS",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,46631": {
+      "deptID": 46631,
+      "shortName": "SOUTH SHORE INTL HS",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,47051": {
+      "deptID": 47051,
+      "shortName": "BROOKS HS",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,47061": {
+      "deptID": 47061,
+      "shortName": "SENN HS",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,47081": {
+      "deptID": 47081,
+      "shortName": "VON STEUBEN HS",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,47091": {
+      "deptID": 47091,
+      "shortName": "CHICAGO AGRICULTURE HS",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": ""
+    }
+  },
+  {
+    "schools,47101": {
+      "deptID": 47101,
+      "shortName": "YOUNG HS",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,49021": {
+      "deptID": 49021,
+      "shortName": "NORTHSIDE LEARNING HS",
+      "rep": "",
+      "organizer": ""
+    }
+  },
+  {
+    "schools,49031": {
+      "deptID": 49031,
+      "shortName": "SOUTHSIDE HS",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,49041": {
+      "deptID": 49041,
+      "shortName": "YORK HS",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,49081": {
+      "deptID": 49081,
+      "shortName": "VAUGHN HS",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,49101": {
+      "deptID": 49101,
+      "shortName": "GRAHAM HS",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,49131": {
+      "deptID": 49131,
+      "shortName": "COLLINS HS",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,51071": {
+      "deptID": 51071,
+      "shortName": "WELLS HS",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,51091": {
+      "deptID": 51091,
+      "shortName": "CLEMENTE HS",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,52011": {
+      "deptID": 52011,
+      "shortName": "WORLD LANGUAGE HS",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,53011": {
+      "deptID": 53011,
+      "shortName": "CHICAGO VOCATIONAL HS",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,53061": {
+      "deptID": 53061,
+      "shortName": "SIMEON HS",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,53091": {
+      "deptID": 53091,
+      "shortName": "FARRAGUT HS",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,53101": {
+      "deptID": 53101,
+      "shortName": "CURIE HS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,53111": {
+      "deptID": 53111,
+      "shortName": "MANLEY HS",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,55011": {
+      "deptID": 55011,
+      "shortName": "PHOENIX MILITARY HS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,55171": {
+      "deptID": 55171,
+      "shortName": "SOCIAL JUSTICE HS",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,55181": {
+      "deptID": 55181,
+      "shortName": "MULTICULTURAL ARTS HIGH SCHOOL",
+      "rep": "AdrianaCervantes@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,55191": {
+      "deptID": 55191,
+      "shortName": "BRONZEVILLE HS",
+      "rep": "GynetteBaker@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,63021": {
+      "deptID": 63021,
+      "shortName": "PLATO",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,63081": {
+      "deptID": 63081,
+      "shortName": "EPIC HS",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": ""
+    }
+  },
+  {
+    "schools,63091": {
+      "deptID": 63091,
+      "shortName": "CHICAGO TECH HS",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,63131": {
+      "deptID": 63131,
+      "shortName": "INSTITUTO - HEALTH",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,63144": {
+      "deptID": 63144,
+      "shortName": "EXCEL SOUTHWEST HS",
+      "rep": "GervaiseClay@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,63161": {
+      "deptID": 63161,
+      "shortName": "LITTLE BLACK PEARL HS",
+      "rep": "JimStaros@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,63181": {
+      "deptID": 63181,
+      "shortName": "HORIZON - SOUTHWEST",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,65015": {
+      "deptID": 65015,
+      "shortName": "OMBUDSMAN - WEST HS",
+      "rep": "JaredSchenkier@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66012": {
+      "deptID": 66012,
+      "shortName": "SAFE ACHIEVE HS",
+      "rep": "KathyMurray@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66032": {
+      "deptID": 66032,
+      "shortName": "KIPP - ONE",
+      "rep": "CurtisBynum@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66092": {
+      "deptID": 66092,
+      "shortName": "NLCP - COLLINS HS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66151": {
+      "deptID": 66151,
+      "shortName": "LOCKE A",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66191": {
+      "deptID": 66191,
+      "shortName": "AHS - PASSAGES",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66271": {
+      "deptID": 66271,
+      "shortName": "NAMASTE",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66281": {
+      "deptID": 66281,
+      "shortName": "CHICAGO MATH & SCIENCE HS",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66351": {
+      "deptID": 66351,
+      "shortName": "ASPIRA - HAUGAN",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66381": {
+      "deptID": 66381,
+      "shortName": "CICS - WRIGHTWOOD",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66432": {
+      "deptID": 66432,
+      "shortName": "CATALYST - CIRCLE ROCK",
+      "rep": "JoseJimenez@ctulocal1.org",
+      "organizer": "JhoannaMaldonado@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66441": {
+      "deptID": 66441,
+      "shortName": "URBAN PREP - ENGLEWOOD HS",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "JimCavallero@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66471": {
+      "deptID": 66471,
+      "shortName": "PROVIDENCE ENGLEWOOD",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66629": {
+      "deptID": 66629,
+      "shortName": "YCCS - YOUTH CONNECTION",
+      "rep": "LeahRaffanti@ctulocal1.org",
+      "organizer": "LindaPerales@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66911": {
+      "deptID": 66911,
+      "shortName": "MOVING EVEREST",
+      "rep": "TeneshaRawls@ctulocal1.org",
+      "organizer": "LashawnWallace@ctulocal1.org"
+    }
+  },
+  {
+    "schools,66921": {
+      "deptID": 66921,
+      "shortName": "INSTITUTO - JUSTICE HS",
+      "rep": "MichaelSmith@ctulocal1.org",
+      "organizer": "ChrisBaehrend@ctulocal1.org"
+    }
+  },
+  {
+    "schools,67021": {
+      "deptID": 67021,
+      "shortName": "PEACE AND EDUCATION HS",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "schools,67081": {
+      "deptID": 67081,
+      "shortName": "POLARIS",
+      "rep": "EdenMcCauslin@ctulocal1.org",
+      "organizer": ""
+    }
+  },
+  {
+    "schools,70241": {
+      "deptID": 70241,
+      "shortName": "ALCOTT HS",
+      "rep": "KevinHough@ctulocal1.org",
+      "organizer": "TennilleEvans@ctulocal1.org"
+    }
+  },
+  {
+    "staffers,AdrianaCervantes@ctulocal1.org": {
+      "firstName": "Adriana",
+      "lastName": "Cervantes",
+      "email": "AdrianaCervantes@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,ChrisBaehrend@ctulocal1.org": {
+      "firstName": "Chris",
+      "lastName": "Baehrend",
+      "email": "ChrisBaehrend@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,CurtisBynum@ctulocal1.org": {
+      "firstName": "Curtis",
+      "lastName": "Bynum",
+      "email": "CurtisBynum@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,EdenMcCauslin@ctulocal1.org": {
+      "firstName": "Eden",
+      "lastName": "McCauslin",
+      "email": "EdenMcCauslin@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,GervaiseClay@ctulocal1.org": {
+      "firstName": "Gervaise",
+      "lastName": "Clay",
+      "email": "GervaiseClay@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,GynetteBaker@ctulocal1.org": {
+      "firstName": "Gynette",
+      "lastName": "Baker",
+      "email": "GynetteBaker@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,JamesCavallero@ctulocal1.org": {
+      "firstName": "Jim",
+      "lastName": "Cavallero",
+      "email": "JamesCavallero@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,JamesStaros@ctulocal1.org": {
+      "firstName": "Jim",
+      "lastName": "Staros",
+      "email": "JamesStaros@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,JaredSchenkier@ctulocal1.org": {
+      "firstName": "Jed",
+      "lastName": "Schenkier",
+      "email": "JaredSchenkier@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,JhoannaMaldonado@ctulocal1.org": {
+      "firstName": "Jhoanna",
+      "lastName": "Maldonado",
+      "email": "JhoannaMaldonado@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,JoseJimenez@ctulocal1.org": {
+      "firstName": "Jose",
+      "lastName": "Jimenez",
+      "email": "JoseJimenez@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,KathyMurray@ctulocal1.org": {
+      "firstName": "Kathy",
+      "lastName": "Murray",
+      "email": "KathyMurray@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,KevinHough@ctulocal1.org": {
+      "firstName": "Kevin",
+      "lastName": "Hough",
+      "email": "KevinHough@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,LashawnWallace@ctulocal1.org": {
+      "firstName": "Lashawn",
+      "lastName": "Wallace",
+      "email": "LashawnWallace@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,LeahRaffanti@ctulocal1.org": {
+      "firstName": "Leah",
+      "lastName": "Raffanti",
+      "email": "LeahRaffanti@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,LindaPerales@ctulocal1.org": {
+      "firstName": "Linda",
+      "lastName": "Perales",
+      "email": "LindaPerales@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,MichaelSmith@ctulocal1.org": {
+      "firstName": "Mike",
+      "lastName": "Smith",
+      "email": "MichaelSmith@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,TeneshaRawls@ctulocal1.org": {
+      "firstName": "Tenesha",
+      "lastName": "Rawls",
+      "email": "TeneshaRawls@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  },
+  {
+    "staffers,TennilleEvans@ctulocal1.org": {
+      "firstName": "Tennille",
+      "lastName": "Evans",
+      "email": "TennilleEvans@ctulocal1.org",
+      "role": "Field Rep"
+    }
+  }
+]

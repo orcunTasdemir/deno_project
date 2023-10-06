@@ -1,0 +1,228 @@
+DeptID,SchoolShortName,rep,organizer
+20071,COLUMBIA EXPLORERS,KevinHough@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+22031,TUBMAN,KevinHough@ctulocal1.org,JimCavallero@ctulocal1.org
+22071,NEW FIELD,GervaiseClay@ctulocal1.org,LindaPerales@ctulocal1.org
+22151,BARTON,TeneshaRawls@ctulocal1.org,JimCavallero@ctulocal1.org
+22161,BASS,KathyMurray@ctulocal1.org,JimCavallero@ctulocal1.org
+22181,NICHOLSON,JaredSchenkier@ctulocal1.org,LindaPerales@ctulocal1.org
+22201,BEAUBIEN,JoseJimenez@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+22221,BELDING,MichaelSmith@ctulocal1.org,TennilleEvans@ctulocal1.org
+22251,SOUTH SHORE ES,AdrianaCervantes@ctulocal1.org,LashawnWallace@ctulocal1.org
+22281,JOPLIN,MichaelSmith@ctulocal1.org,LindaPerales@ctulocal1.org
+22341,LORCA,GynetteBaker@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+22381,WEST RIDGE,GervaiseClay@ctulocal1.org,LindaPerales@ctulocal1.org
+22391,BUDLONG,MichaelSmith@ctulocal1.org,LashawnWallace@ctulocal1.org
+22421,BURLEY,GynetteBaker@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+22451,HUGHES L,MichaelSmith@ctulocal1.org,LindaPerales@ctulocal1.org
+22521,LITTLE VILLAGE,KevinHough@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+22571,CARROLL,GervaiseClay@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+22591,SKINNER NORTH,JimStaros@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+22611,CARTER,AdrianaCervantes@ctulocal1.org,LashawnWallace@ctulocal1.org
+22701,CHASE,LeahRaffanti@ctulocal1.org,TennilleEvans@ctulocal1.org
+22741,CLEVELAND,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+22751,CLINTON,JimStaros@ctulocal1.org,JimCavallero@ctulocal1.org
+22761,CLISSOLD,KathyMurray@ctulocal1.org,LashawnWallace@ctulocal1.org
+22791,COLUMBUS,JoseJimenez@ctulocal1.org,
+22831,COOPER,EdenMcCauslin@ctulocal1.org,JimCavallero@ctulocal1.org
+22871,DIRKSEN,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+23021,DRUMMOND,JoseJimenez@ctulocal1.org,LindaPerales@ctulocal1.org
+23031,EARLE,MichaelSmith@ctulocal1.org,JimCavallero@ctulocal1.org
+23071,EDGEBROOK,EdenMcCauslin@ctulocal1.org,JimCavallero@ctulocal1.org
+23201,FERNWOOD,MichaelSmith@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+23211,FIELD,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+23241,FORT DEARBORN,JoseJimenez@ctulocal1.org,LashawnWallace@ctulocal1.org
+23271,FULLER,TeneshaRawls@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+23361,GRISSOM,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+23421,ARIEL,JaredSchenkier@ctulocal1.org,JimCavallero@ctulocal1.org
+23431,GREENE,KevinHough@ctulocal1.org,TennilleEvans@ctulocal1.org
+23521,SOR JUANA,EdenMcCauslin@ctulocal1.org,TennilleEvans@ctulocal1.org
+23551,MCAULIFFE,GynetteBaker@ctulocal1.org,LashawnWallace@ctulocal1.org
+23591,HAUGAN,MichaelSmith@ctulocal1.org,JimCavallero@ctulocal1.org
+23631,WOODLAWN,GervaiseClay@ctulocal1.org,JimCavallero@ctulocal1.org
+23641,SMITH,TeneshaRawls@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+23671,HEARST,GynetteBaker@ctulocal1.org,TennilleEvans@ctulocal1.org
+23811,HITCH,TeneshaRawls@ctulocal1.org,LashawnWallace@ctulocal1.org
+23851,HOWE,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+23891,CULLEN,MichaelSmith@ctulocal1.org,TennilleEvans@ctulocal1.org
+23931,JAMIESON,JaredSchenkier@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+23971,KELLOGG,JimStaros@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+24011,CASALS,GervaiseClay@ctulocal1.org,LashawnWallace@ctulocal1.org
+24021,KILMER,JoseJimenez@ctulocal1.org,LindaPerales@ctulocal1.org
+24051,CARDENAS,AdrianaCervantes@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+24151,LEWIS,MichaelSmith@ctulocal1.org,LindaPerales@ctulocal1.org
+24201,VON LINNE,MichaelSmith@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+24221,LLOYD,JimStaros@ctulocal1.org,JimCavallero@ctulocal1.org
+24281,LYON,EdenMcCauslin@ctulocal1.org,JimCavallero@ctulocal1.org
+24341,MARQUETTE,MichaelSmith@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+24401,MAYER,AdrianaCervantes@ctulocal1.org,TennilleEvans@ctulocal1.org
+24401,MAYER,TeneshaRawls@ctulocal1.org,LashawnWallace@ctulocal1.org
+24431,MCCORMICK,JimStaros@ctulocal1.org,LindaPerales@ctulocal1.org
+24441,TILL,AdrianaCervantes@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+24461,HANSON PARK,GervaiseClay@ctulocal1.org,LashawnWallace@ctulocal1.org
+24511,MITCHELL,LeahRaffanti@ctulocal1.org,TennilleEvans@ctulocal1.org
+24571,MORRILL,AdrianaCervantes@ctulocal1.org,JimCavallero@ctulocal1.org
+24611,MOZART,MichaelSmith@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+24671,NIGHTINGALE,CurtisBynum@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+24711,NORWOOD PARK,GervaiseClay@ctulocal1.org,LashawnWallace@ctulocal1.org
+24711,NORWOOD PARK,JimStaros@ctulocal1.org,TennilleEvans@ctulocal1.org
+24731,OGDEN HS,CurtisBynum@ctulocal1.org,LashawnWallace@ctulocal1.org
+24771,ORIOLE PARK,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+24781,PICCOLO,GynetteBaker@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+24811,WELLS ES,JimStaros@ctulocal1.org,LindaPerales@ctulocal1.org
+24841,PARK MANOR,CurtisBynum@ctulocal1.org,LashawnWallace@ctulocal1.org
+24871,PECK,KathyMurray@ctulocal1.org,LashawnWallace@ctulocal1.org
+24881,IRVING,AdrianaCervantes@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+24991,WARD L,GynetteBaker@ctulocal1.org,TennilleEvans@ctulocal1.org
+25011,PORTAGE PARK,JaredSchenkier@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+25031,PRUSSING,KathyMurray@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+25061,RAVENSWOOD,EdenMcCauslin@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+25121,REVERE,MichaelSmith@ctulocal1.org,LindaPerales@ctulocal1.org
+25151,CHAVEZ,EdenMcCauslin@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+25211,SAUGANASH,EdenMcCauslin@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+25231,SAWYER,EdenMcCauslin@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+25241,SCAMMON,KevinHough@ctulocal1.org,JimCavallero@ctulocal1.org
+25291,SCHUBERT,JimStaros@ctulocal1.org,TennilleEvans@ctulocal1.org
+25371,SHOESMITH,LeahRaffanti@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+25431,SOLOMON,LeahRaffanti@ctulocal1.org,JimCavallero@ctulocal1.org
+25441,SPENCER,EdenMcCauslin@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+25491,DUNNE,MichaelSmith@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+25581,TALCOTT,JoseJimenez@ctulocal1.org,LindaPerales@ctulocal1.org
+25591,TAYLOR,GervaiseClay@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+25791,WEBSTER,JimStaros@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+25911,YATES,EdenMcCauslin@ctulocal1.org,JimCavallero@ctulocal1.org
+25941,BOND,MichaelSmith@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+26051,DVORAK,JaredSchenkier@ctulocal1.org,JimCavallero@ctulocal1.org
+26061,ROBINSON,MichaelSmith@ctulocal1.org,LashawnWallace@ctulocal1.org
+26091,MORTON,MichaelSmith@ctulocal1.org,JimCavallero@ctulocal1.org
+26181,BRONZEVILLE CLASSICAL,AdrianaCervantes@ctulocal1.org,LashawnWallace@ctulocal1.org
+26231,JOHNSON,EdenMcCauslin@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+26251,MOLLISON,JimStaros@ctulocal1.org,TennilleEvans@ctulocal1.org
+26291,POWELL,TeneshaRawls@ctulocal1.org,LashawnWallace@ctulocal1.org
+26301,MCNAIR,EdenMcCauslin@ctulocal1.org,JimCavallero@ctulocal1.org
+26321,MAYS,GervaiseClay@ctulocal1.org,LashawnWallace@ctulocal1.org
+26371,KING ES,KathyMurray@ctulocal1.org,LashawnWallace@ctulocal1.org
+26431,WHITE,MichaelSmith@ctulocal1.org,LindaPerales@ctulocal1.org
+26451,BRIGHTON PARK,JoseJimenez@ctulocal1.org,JimCavallero@ctulocal1.org
+26461,EVERGREEN,AdrianaCervantes@ctulocal1.org,LashawnWallace@ctulocal1.org
+26521,STAGG,EdenMcCauslin@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+26541,WOODSON,EdenMcCauslin@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+26591,EVERS,MichaelSmith@ctulocal1.org,TennilleEvans@ctulocal1.org
+26701,FAIRFIELD,TeneshaRawls@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+26721,SANDOVAL,GervaiseClay@ctulocal1.org,LindaPerales@ctulocal1.org
+26731,VICK,JaredSchenkier@ctulocal1.org,JimCavallero@ctulocal1.org
+26751,COLEMON,JoseJimenez@ctulocal1.org,TennilleEvans@ctulocal1.org
+26781,TALMAN,GervaiseClay@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+26791,TARKINGTON,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+26821,CALMECA,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+26831,DURKIN PARK,KevinHough@ctulocal1.org,LindaPerales@ctulocal1.org
+26841,NORTH RIVER,JimStaros@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+26861,UPLIFT HS,EdenMcCauslin@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+26881,SUDER,JimStaros@ctulocal1.org,LindaPerales@ctulocal1.org
+26891,THOMAS,TeneshaRawls@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+26921,DISNEY II ES,AdrianaCervantes@ctulocal1.org,LindaPerales@ctulocal1.org
+28151,ORR HS,GervaiseClay@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+29021,BURNSIDE,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+29041,TURNER-DREW,JaredSchenkier@ctulocal1.org,JimCavallero@ctulocal1.org
+29051,ERICSON,GervaiseClay@ctulocal1.org,TennilleEvans@ctulocal1.org
+29071,KANOON,JaredSchenkier@ctulocal1.org,
+29081,FRANKLIN,KathyMurray@ctulocal1.org,LindaPerales@ctulocal1.org
+29091,GALLISTEL,LeahRaffanti@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+29101,LASALLE II,LeahRaffanti@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+29111,RANDOLPH,TeneshaRawls@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+29131,HAWTHORNE,AdrianaCervantes@ctulocal1.org,TennilleEvans@ctulocal1.org
+29141,GALILEO,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+29171,ChicagoAcademy@ctulocal1.org,KevinHough@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+29191,INTER-AMERICAN,JaredSchenkier@ctulocal1.org,LindaPerales@ctulocal1.org
+29211,KELLER,GynetteBaker@ctulocal1.org,JimCavallero@ctulocal1.org
+29221,MURRAY,JimStaros@ctulocal1.org,LashawnWallace@ctulocal1.org
+29261,POE,JaredSchenkier@ctulocal1.org,
+29291,STONE,AdrianaCervantes@ctulocal1.org,TennilleEvans@ctulocal1.org
+29341,JENSEN,JoseJimenez@ctulocal1.org,TennilleEvans@ctulocal1.org
+29361,LENART,GervaiseClay@ctulocal1.org,LashawnWallace@ctulocal1.org
+29371,SABIN,CurtisBynum@ctulocal1.org,LashawnWallace@ctulocal1.org
+29391,DAVIS M,AdrianaCervantes@ctulocal1.org,TennilleEvans@ctulocal1.org
+30011,JEFFERSON HS,JoseJimenez@ctulocal1.org,TennilleEvans@ctulocal1.org
+30031,CHRISTOPHER,CurtisBynum@ctulocal1.org,LashawnWallace@ctulocal1.org
+30071,BLAIR,CurtisBynum@ctulocal1.org,LashawnWallace@ctulocal1.org
+30101,SALAZAR,TeneshaRawls@ctulocal1.org,TennilleEvans@ctulocal1.org
+31041,CROWN,KathyMurray@ctulocal1.org,LashawnWallace@ctulocal1.org
+31061,METCALFE,JaredSchenkier@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+31101,NINOS HEROES,JimStaros@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+31141,PILSEN,KevinHough@ctulocal1.org,TennilleEvans@ctulocal1.org
+31201,PARKSIDE,TeneshaRawls@ctulocal1.org,LindaPerales@ctulocal1.org
+31211,PULASKI,EdenMcCauslin@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+31301,CLAREMONT,GynetteBaker@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+32081,ASHBURN,CurtisBynum@ctulocal1.org,LashawnWallace@ctulocal1.org
+41091,AVONDALE-LOGANDALE,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+41121,NORTHWEST,JaredSchenkier@ctulocal1.org,JimCavallero@ctulocal1.org
+45211,CHICAGO ACADEMY ES,MichaelSmith@ctulocal1.org,JimCavallero@ctulocal1.org
+45231,AIR FORCE HS,AdrianaCervantes@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+46061,NORTHSIDE PREP HS,TeneshaRawls@ctulocal1.org,JimCavallero@ctulocal1.org
+46101,SOLORIO HS,MichaelSmith@ctulocal1.org,TennilleEvans@ctulocal1.org
+46141,GAGE PARK HS,AdrianaCervantes@ctulocal1.org,TennilleEvans@ctulocal1.org
+46181,KELLY HS,JaredSchenkier@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+46191,KELVYN PARK HS,TeneshaRawls@ctulocal1.org,LashawnWallace@ctulocal1.org
+46211,LAKE VIEW HS,JoseJimenez@ctulocal1.org,TennilleEvans@ctulocal1.org
+46241,MATHER HS,EdenMcCauslin@ctulocal1.org,JimCavallero@ctulocal1.org
+46251,MORGAN PARK HS,MichaelSmith@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+46301,SULLIVAN HS,KevinHough@ctulocal1.org,JimCavallero@ctulocal1.org
+46321,LINCOLN PARK HS,JoseJimenez@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+46361,KENWOOD HS,KathyMurray@ctulocal1.org,LashawnWallace@ctulocal1.org
+46401,JULIAN HS,JoseJimenez@ctulocal1.org,LindaPerales@ctulocal1.org
+46431,NORTH-GRAND HS,EdenMcCauslin@ctulocal1.org,JimCavallero@ctulocal1.org
+46461,SPRY HS,JimStaros@ctulocal1.org,TennilleEvans@ctulocal1.org
+46481,CHICAGO ACADEMY HS,AdrianaCervantes@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+46491,BOWEN HS,KevinHough@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+46521,DEVRY HS,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+46611,GOODE HS,KevinHough@ctulocal1.org,
+46621,AUSTIN CCA HS,MichaelSmith@ctulocal1.org,LashawnWallace@ctulocal1.org
+46631,SOUTH SHORE INTL HS,TeneshaRawls@ctulocal1.org,LashawnWallace@ctulocal1.org
+47051,BROOKS HS,AdrianaCervantes@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+47061,SENN HS,GynetteBaker@ctulocal1.org,LindaPerales@ctulocal1.org
+47081,VON STEUBEN HS,LeahRaffanti@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+47091,CHICAGO AGRICULTURE HS,AdrianaCervantes@ctulocal1.org,
+47101,YOUNG HS,LeahRaffanti@ctulocal1.org,JimCavallero@ctulocal1.org
+49021,NORTHSIDE LEARNING HS,,
+49031,SOUTHSIDE HS,EdenMcCauslin@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+49041,YORK HS,MichaelSmith@ctulocal1.org,LashawnWallace@ctulocal1.org
+49081,VAUGHN HS,JaredSchenkier@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+49101,GRAHAM HS,KathyMurray@ctulocal1.org,LashawnWallace@ctulocal1.org
+49131,COLLINS HS,KathyMurray@ctulocal1.org,LindaPerales@ctulocal1.org
+51071,WELLS HS,GervaiseClay@ctulocal1.org,JimCavallero@ctulocal1.org
+51091,CLEMENTE HS,CurtisBynum@ctulocal1.org,JimCavallero@ctulocal1.org
+52011,WORLD LANGUAGE HS,EdenMcCauslin@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+53011,CHICAGO VOCATIONAL HS,AdrianaCervantes@ctulocal1.org,TennilleEvans@ctulocal1.org
+53061,SIMEON HS,JaredSchenkier@ctulocal1.org,LindaPerales@ctulocal1.org
+53091,FARRAGUT HS,MichaelSmith@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+53101,CURIE HS,JoseJimenez@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+53111,MANLEY HS,CurtisBynum@ctulocal1.org,LashawnWallace@ctulocal1.org
+55011,PHOENIX MILITARY HS,JoseJimenez@ctulocal1.org,LindaPerales@ctulocal1.org
+55171,SOCIAL JUSTICE HS,TeneshaRawls@ctulocal1.org,LashawnWallace@ctulocal1.org
+55181,MULTICULTURAL ARTS HIGH SCHOOL,AdrianaCervantes@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+55191,BRONZEVILLE HS,GynetteBaker@ctulocal1.org,LashawnWallace@ctulocal1.org
+63021,PLATO,KathyMurray@ctulocal1.org,LashawnWallace@ctulocal1.org
+63081,EPIC HS,CurtisBynum@ctulocal1.org,
+63091,CHICAGO TECH HS,CurtisBynum@ctulocal1.org,LashawnWallace@ctulocal1.org
+63131,INSTITUTO - HEALTH,MichaelSmith@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+63144,EXCEL SOUTHWEST HS,GervaiseClay@ctulocal1.org,JimCavallero@ctulocal1.org
+63161,LITTLE BLACK PEARL HS,JimStaros@ctulocal1.org,LindaPerales@ctulocal1.org
+63181,HORIZON - SOUTHWEST,MichaelSmith@ctulocal1.org,LashawnWallace@ctulocal1.org
+65015,OMBUDSMAN - WEST HS,JaredSchenkier@ctulocal1.org,JimCavallero@ctulocal1.org
+66012,SAFE ACHIEVE HS,KathyMurray@ctulocal1.org,TennilleEvans@ctulocal1.org
+66032,KIPP - ONE,CurtisBynum@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+66092,NLCP - COLLINS HS,JoseJimenez@ctulocal1.org,JimCavallero@ctulocal1.org
+66151,LOCKE A,EdenMcCauslin@ctulocal1.org,JimCavallero@ctulocal1.org
+66191,AHS - PASSAGES,KevinHough@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+66271,NAMASTE,EdenMcCauslin@ctulocal1.org,LindaPerales@ctulocal1.org
+66281,CHICAGO MATH & SCIENCE HS,JoseJimenez@ctulocal1.org,LashawnWallace@ctulocal1.org
+66351,ASPIRA - HAUGAN,LeahRaffanti@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+66381,CICS - WRIGHTWOOD,LeahRaffanti@ctulocal1.org,LindaPerales@ctulocal1.org
+66432,CATALYST - CIRCLE ROCK,JoseJimenez@ctulocal1.org,JhoannaMaldonado@ctulocal1.org
+66441,URBAN PREP - ENGLEWOOD HS,TeneshaRawls@ctulocal1.org,JimCavallero@ctulocal1.org
+66471,PROVIDENCE ENGLEWOOD,EdenMcCauslin@ctulocal1.org,TennilleEvans@ctulocal1.org
+66629,YCCS - YOUTH CONNECTION,LeahRaffanti@ctulocal1.org,LindaPerales@ctulocal1.org
+66911,MOVING EVEREST,TeneshaRawls@ctulocal1.org,LashawnWallace@ctulocal1.org
+66921,INSTITUTO - JUSTICE HS,MichaelSmith@ctulocal1.org,ChrisBaehrend@ctulocal1.org
+67021,PEACE AND EDUCATION HS,EdenMcCauslin@ctulocal1.org,TennilleEvans@ctulocal1.org
+67081,POLARIS,EdenMcCauslin@ctulocal1.org,
+70241,ALCOTT HS,KevinHough@ctulocal1.org,TennilleEvans@ctulocal1.org
